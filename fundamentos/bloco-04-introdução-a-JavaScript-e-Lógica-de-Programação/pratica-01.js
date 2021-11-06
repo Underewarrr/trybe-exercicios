@@ -14,3 +14,5 @@ const a = 2; //Declarada variavel a
 const b = 3; // Declarada variavel b
     //Soma
 console.log(a + b);
+    //Subtração
+console.log(a - b);
