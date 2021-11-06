@@ -20,3 +20,5 @@ const b = 15; // Declarada variavel b
     console.log(a * b);
     //Divisão
     console.log(a / b);
+    //Módulo
+    console.log(a % b);
