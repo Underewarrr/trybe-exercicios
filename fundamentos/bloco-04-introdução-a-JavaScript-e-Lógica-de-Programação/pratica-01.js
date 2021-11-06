@@ -10,9 +10,11 @@ Divisão (a / b)
 Módulo (a % b)
 */
 
-const a = 2; //Declarada variavel a
-const b = 3; // Declarada variavel b
+const a = 5; //Declarada variavel a
+const b = 15; // Declarada variavel b
     //Soma
-console.log(a + b);
+    console.log(a + b);
     //Subtração
-console.log(a - b);
+    console.log(a - b);
+    //Multiplicação
+    console.log(a * b);
