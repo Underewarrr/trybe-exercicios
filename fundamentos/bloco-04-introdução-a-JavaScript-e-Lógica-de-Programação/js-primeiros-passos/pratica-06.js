@@ -25,6 +25,14 @@ function changePlayer(pieces) {
       knight : "2",
       pawn : "8"
     },
+    abilitys:{
+        king : "north,south,east,west,northEast,northWest,southEast,southWest",
+        queen : "north,south,east,west,northEast,northWest,southEast,southWest",
+        rook : "north,east,west,south",
+        bishop : "northEast,northWest,southEast,southWest",
+        knight : "north,south,east,west,northEast,northWest,southEast,southWest",
+        pawn : "north"
+      },
     movement:{
       north:"You moved to North",   
       south:"You moved to South", 
@@ -47,6 +55,14 @@ function changePlayer(pieces) {
         bishop : "2",
         knight : "2",
         pawn : "8"
+      },
+      abilitys:{
+        king : "north,south,east,west,northEast,northWest,southEast,southWest",
+        queen : "north,south,east,west,northEast,northWest,southEast,southWest",
+        rook : "north,east,west,south",
+        bishop : "northEast,northWest,southEast,southWest",
+        knight : "north,south,east,west,northEast,northWest,southEast,southWest",
+        pawn : "north"
       },
       movement:{
         north:"You moved to North",   
