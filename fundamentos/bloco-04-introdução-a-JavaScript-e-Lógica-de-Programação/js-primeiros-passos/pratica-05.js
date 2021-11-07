@@ -17,12 +17,14 @@ Propriedades dos Triângulos
 const trianguloSomaInterna = ang1 + ang2 + ang3; // (180º / 3) = 60º
 const trianguloSomaExterna; // (360º / 3) = 120º
 const internosNaoAdjacentes = ang3 + ang1;
-const maiorLadoDoTriaungulo = ang2 < ang3 < ang1;
+const maiorLadoDoTriaungulo; // ang2 < ang3 < ang1
 
 if (trianguloSomaInterna == 180){ // soma interna
-    return console.log(trianguloSomaInterna) // triangulo true
+    return console.log(trianguloSomaInterna); // triangulo true
 }else if (trianguloSomaInterna =! 180){    
     trianguloSomaExterna = trianguloSomaInterna * 2; // Somas dos angulo externos
-    return console.log(trianguloSomaExterna);//
-}else if ()
+    return console.log(trianguloSomaExterna);// return soma externa
+}else if (internosNaoAdjacentes =! ang2){//  return soma adjacente
+    return console.log(internosNaoAdjacentes);
+}else{console.log("time to stop coding");} // time to stop
 
