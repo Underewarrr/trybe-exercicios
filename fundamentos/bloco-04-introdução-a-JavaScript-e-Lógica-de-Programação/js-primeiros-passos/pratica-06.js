@@ -16,9 +16,16 @@ function changePlayer(pieces) {
       Boolean verify
   
   */
-
-  /*
-    
+      //Rules
+  
+  // 0 = white
+  // 1 = white
+/*
+Tabuleiro = [
+  [0,0,0]
+  [1,3,1]
+  [0,0,0]
+]
   */
 //   * Declare a variável 'peiceWhite /  pieceBlack';
 //   * crie e inicialize um novo Objeto;
