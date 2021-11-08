@@ -21,7 +21,7 @@ function changePlayer(pieces) {
   // 0 = white
   // 1 = white
 /*
-Tabuleiro = [
+tabuleiroArray = [
   [0,0,0]
   [1,3,1]
   [0,0,0]
