@@ -11,6 +11,15 @@ function changePlayer(pieces) {
     pieces.peiceWhite = "White";
     pieces.pieceBlack = "Black";
   }
+
+  /*  
+      Boolean verify
+  
+  */
+
+  /*
+    
+  */
 //   * Declare a variável 'peiceWhite /  pieceBlack';
 //   * crie e inicialize um novo Objeto;
 //   * atribua referência para 'pieceBlack'
@@ -75,6 +84,7 @@ function changePlayer(pieces) {
         southWest : "You moved to South West" 
       }
   };
+
   /* Exibe 'pieceBlack' */
   console.log(tabuleiroBlack.peiceBlack);
   /* Passe a referência do objeto para a função */
