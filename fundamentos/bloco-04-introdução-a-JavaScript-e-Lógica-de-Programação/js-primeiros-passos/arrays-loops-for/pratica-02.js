@@ -41,11 +41,7 @@ console.log(numbers); // 278
 /* const numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27]; // with initial value to avoid when the array is empty
  
             for Solution  
-
-    for (var i=0; i<numbers.length; i++)
-        index added to var; verify array length
-    console.log(i + "._._. = " + numbers[i]);//Show in console
-     */
+   
 /* const numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
 let sum = 0;
     for (let i = 0; i < numbers.length; i++) {
