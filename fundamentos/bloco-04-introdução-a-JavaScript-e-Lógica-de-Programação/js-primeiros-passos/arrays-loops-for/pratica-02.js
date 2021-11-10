@@ -16,7 +16,7 @@ expected output: 15
     */
     //This Variable bellow are called in funcion add
  const numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27].reduce(add, 0); 
-    //Reduce can call a array and manipuled him with a variale receving value from function in initial array 0 when add are called
+    //Reduce can call a array and with a variable receving value from function in initial array 0 when add are called
 
     /*
     A function can acess Variable "outside" from the fuction like 'numbers'
