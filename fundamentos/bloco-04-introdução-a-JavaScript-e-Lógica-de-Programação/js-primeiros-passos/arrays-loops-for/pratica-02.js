@@ -14,7 +14,7 @@ console.log(array1.reduce(reducer, 5));
 expected output: 15
     */
     //This Variable bellow are called in funcion add
-const numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27].reduce(add, 0); // with initial value to avoid when the array is empty
+ const numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27].reduce(add, 0); 
     //Reduce can call a array and manipuled him with a variale receving value from function in initial array 0 when add are called
 
     /*
@@ -22,7 +22,7 @@ const numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27].reduce(add, 0); // with ini
     And in this function add are declared outsied in const with reduce and after that are used here
     Two new 'variables' are declared when the function start and the magic happen right?
     */
-function add(accumulator, a) {
+    function add(accumulator, a) {
     // acumulator are a parameter from reducer, check more in sintax 
     /*
     O método reduce() executa a função de callback uma vez para cada elemento presente no array, excluindo furos (valores indefinidos), recebendo quatro argumentos:
@@ -37,3 +37,17 @@ function add(accumulator, a) {
 }
 // in the Final the result are a Array numbers Mofified by a logic up here /\
 console.log(numbers); // 278
+/* const numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27]; // with initial value to avoid when the array is empty
+ 
+            for Solution  
+
+    for (var i=0; i<numbers.length; i++)
+        index added to var; verify array length
+    console.log(i + "._._. = " + numbers[i]);//Show in console
+     */
+/* const numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];
+let sum = 0;
+    for (let i = 0; i < numbers.length; i++) {
+        sum += numbers[i];
+    }
+console.log(sum); */
