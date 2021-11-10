@@ -29,4 +29,5 @@ function add(accumulator, a) {
     // Function add receive 2 arguments and return the sum
   return accumulator + a; // returning the sum from acmullator and a
 }
+// in the Final the result are a Array numbers Mofified by a logic up here /\
 console.log(numbers); // 278
