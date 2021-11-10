@@ -8,7 +8,6 @@ Para o segundo exercício, some todos os valores contidos no array e imprima o r
 */
 /* For Example 4.3 */
 /**/
-
 /*
  1 + 2 + 3 + 4
 console.log(array1.reduce(reducer));
@@ -25,6 +24,15 @@ const numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27].reduce(add, 0); // with ini
 // And in this function add are declared outsied in const and after that are used here
 // Two new 'variables' are declared when the function start and the magic happen right?
 function add(accumulator, a) {
+    // acumulator are a parameter from reducer, check more in sintax 
+    /*
+    O método reduce() executa a função de callback uma vez para cada elemento presente no array, excluindo furos (valores indefinidos), recebendo quatro argumentos:
+
+        acumulador - valor inicial (ou o valor do callback anterior),
+        valorAtual - o valor do elemento atual
+        index - o índice atual e
+        array - o array onde a iteração está ocorrendo.
+    */  
     // Function add receive 2 arguments and return the sum
   return accumulator + a; // returning the sum from acmullator and a
 }
