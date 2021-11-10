@@ -15,11 +15,11 @@ expected output: 15
     */
     //This Variable bellow are called in funcion add
 const numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27].reduce(add, 0); // with initial value to avoid when the array is empty
-    //Reduce can call a array and manipuled him with a variale receving value from function in initial arra 0 when add are called
+    //Reduce can call a array and manipuled him with a variale receving value from function in initial array 0 when add are called
 
     /*
     A function can acess Variable "outside" from the fuction like 'numbers'
-    And in this function add are declared outsied in const and after that are used here
+    And in this function add are declared outsied in const with reduce and after that are used here
     Two new 'variables' are declared when the function start and the magic happen right?
     */
 function add(accumulator, a) {
