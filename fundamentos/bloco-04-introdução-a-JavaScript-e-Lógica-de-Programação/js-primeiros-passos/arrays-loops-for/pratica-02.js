@@ -2,6 +2,7 @@
     Para o segundo exercício, some todos os valores contidos no array e imprima o resultado;
     */
     /*      Some Documentation
+        FOR https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for
         FINDING SUM IN ARRAY - https://stackoverflow.com/questions/1230233/how-to-find-the-sum-of-an-array-of-numbers
         WHAT IS REDUCE https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce
         HOW MAKE A FUNCTION? https://www.w3schools.com/js/js_function_closures.asp
