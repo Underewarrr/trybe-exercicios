@@ -2,7 +2,7 @@
 
 # [TRYBE](https://www.betrybe.com/)!
 
->_This repository manage all projetcs and exercises that I've been doing at [TRYBE](https://www.betrybe.com/) while developing! My name is [Rafhael Oliveira](https://www.linkedin.com/in/rafhael-oliveira/) as a fullstack web developer_ - [TRYBE | [Class XP - Group A]](https://www.betrybe.com/)  :rocket:  ![download](https://user-images.githubusercontent.com/7903924/138347214-b20c0925-a23f-491c-aa3f-42bab978b1de.png) - _Working in Progress- WIP_
+>_This repository manage all projetcs and exercises that I've been doing at [TRYBE](https://www.betrybe.com/) while developing!as a fullstack web developer-  My name is [Rafhael Oliveira](https://www.linkedin.com/in/rafhael-oliveira/)  _ - [TRYBE | [Class XP - Group A]](https://www.betrybe.com/)  :rocket:  ![download](https://user-images.githubusercontent.com/7903924/138347214-b20c0925-a23f-491c-aa3f-42bab978b1de.png) - _Working in Progress- WIP_
 
 ## _Who is Trybe_
 >A [_Trybe_](https://www.betrybe.com/) é uma escola de desenvolvimento web que te ensina a programar, a aprender e a trabalhar.
