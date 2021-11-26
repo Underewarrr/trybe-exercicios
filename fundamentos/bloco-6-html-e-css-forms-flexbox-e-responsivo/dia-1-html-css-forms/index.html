@@ -67,7 +67,7 @@ Faça as validações inicialmente pelo HTML
 <body>
      <main>
          <form action="" method="GET" id="cur-form">
-            <fieldset>Dados Pessoais
+            <fieldset name="Dados Pessoais">
                 <section class="personalInfo">
                 <label for="" id="labelNome">Nome
                     <input type="text" id="name-input" max="40">
@@ -97,7 +97,10 @@ Faça as validações inicialmente pelo HTML
                 </section>
         </fieldset>
         <br>
-        <fieldset>Dados do seu último emprego
+        <fieldset name="Dados do seu último emprego">
+            <sectio>
+                <textarea name="dados-emprego" id="work-data" cols="30" rows="10" maxlength="1000"></textarea>
+            </sectio>
         </fieldset>
         </form>
     </main>
