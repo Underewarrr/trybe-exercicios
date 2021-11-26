@@ -70,30 +70,30 @@ Faça as validações inicialmente pelo HTML
             <fieldset name="Dados Pessoais">
                 <legend>Dados Pessoais</legend>
                 <section class="personalInfo">
-                <label for="" id="labelNome">Nome
+                <label for="name-input" id="labelNome">Nome
                     <input type="text" id="name-input" max="40">
                 </label>
-                <label for="" id="labelCPF">CPF
+                <label for="CPF-input" id="labelCPF">CPF
                     <input type="text" id="CPF-input" max="11">
                 </label>
                 </section>
                 <section class="streeInfo">
-                    <label for="" id="labelEndereço">Endereço
-                        <input type="text" id="Endereço-input" max="200">
+                    <label for="endereço-input" id="labelEndereço">Endereço
+                        <input type="text" id="endereço-input" max="200">
                     </label>
-                    <label for="" id="labelCidade">Cidade
-                        <input type="text" id="Cidade-input" max="28">
+                    <label for="cidade-input" id="labelCidade">Cidade
+                        <input type="text" id="cidade-input" max="28">
                     </label>
-                    <label for="" id="label">Estado
-                        <input type="text" id="Estado-input" max="40">
+                    <label for="estado-input" id="label">Estado
+                        <input type="text" id="estado-input" max="40">
                     </label>
                 </section>
                 <section class ="houseInfo">
-                    <label for="" id="houseInfo">Casa
+                    <label for="house" id="houseInfo">Casa
                         <input type="radio" name="house" id="house-type">                            
                     </label>
-                    <label for="" id="houseInfo">Apartamento
-                        <input type="radio" name="house" id="apart=type">
+                    <label for="apart" id="houseInfo">Apartamento
+                        <input type="radio" name="apart" id="apart=type">
                     </label>
                 </section>
         </fieldset>
@@ -101,7 +101,19 @@ Faça as validações inicialmente pelo HTML
         <fieldset name="Dados do seu último emprego">
             <legend>Dados do seu último emprego</legend>
             <sectio>
-                <textarea name="dados-emprego" id="work-data" cols="30" rows="10" maxlength="1000"></textarea>
+                <label for="work-data" id="data-work">Descreva o seu ultimo emprego
+                    <textarea name="dados-emprego" id="work-data" cols="30" rows="10" maxlength="1000"></textarea>
+                </label>
+            </sectio>
+            <sectio>
+                <label for="job-data" id="job">Cargo
+                    <input type="text" maxlength="40" name="" id="job-data">                            
+                </label>
+            </sectio>
+            <sectio>
+                <label for="job-desc" id="job-description">Descrição do cargo
+                    <textarea maxlength="500" name="" id="job-desc" cols="30" rows="10"></textarea>                     
+                </label>
             </sectio>
         </fieldset>
         </form>
