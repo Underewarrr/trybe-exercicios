@@ -65,40 +65,41 @@ Faça as validações inicialmente pelo HTML
 
 -->
 <body>
-        <main>
-            <fieldset>
-                <form action="" method="GET" id="cur-form">
-                   <section class="personalInfo">
-                    <label for="" id="labelNome">Nome
-                        <input type="text" id="name-input" max="40">
+     <main>
+         <form action="" method="GET" id="cur-form">
+            <fieldset>Dados Pessoais
+                <section class="personalInfo">
+                <label for="" id="labelNome">Nome
+                    <input type="text" id="name-input" max="40">
+                </label>
+                <label for="" id="labelCPF">CPF
+                    <input type="text" id="CPF-input" max="11">
+                </label>
+                </section>
+                <section class="streeInfo">
+                    <label for="" id="labelEndereço">Endereço
+                        <input type="text" id="Endereço-input" max="200">
                     </label>
-                    <label for="" id="labelCPF">CPF
-                        <input type="text" id="CPF-input" max="11">
+                    <label for="" id="labelCidade">Cidade
+                        <input type="text" id="Cidade-input" max="28">
                     </label>
-                   </section>
-                   
-                    <section class="streeInfo">
-                        <label for="" id="labelEndereço">Endereço
-                            <input type="text" id="Endereço-input" max="200">
-                        </label>
-                        <label for="" id="labelCidade">Cidade
-                            <input type="text" id="Cidade-input" max="28">
-                        </label>
-                        <label for="" id="label">Estado
-                            <input type="text" id="Estado-input" max="40">
-                        </label>
-                    </section>
-
-                    <section class ="houseInfo">
-                        <label for="" id="houseInfo">Casa
-                            <input type="radio" name="house" id="house-type">                            
-                        </label>
-                        <label for="" id="houseInfo">Apartamento
-                            <input type="radio" name="house" id="apart=type">
-                        </label>
-                    </section>
-                </form>
-            </fieldset>
-        </main>
+                    <label for="" id="label">Estado
+                        <input type="text" id="Estado-input" max="40">
+                    </label>
+                </section>
+                <section class ="houseInfo">
+                    <label for="" id="houseInfo">Casa
+                        <input type="radio" name="house" id="house-type">                            
+                    </label>
+                    <label for="" id="houseInfo">Apartamento
+                        <input type="radio" name="house" id="apart=type">
+                    </label>
+                </section>
+        </fieldset>
+        <br>
+        <fieldset>Dados do seu último emprego
+        </fieldset>
+        </form>
+    </main>
 </body>
 </html>
