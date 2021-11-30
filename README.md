@@ -53,7 +53,7 @@ Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento w
 - [X] 4-4: _JavaScript - Objetos e Funções_
 - [X] 4-5: _[Projeto - Playground Functions]()_
 
-##### Bloco 5: JavaScrip: DOM, Eventos e Web Storage
+##### [Bloco 5: JavaScrip: DOM, Eventos e Web Storage](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos/bloco-05-javascript-dom-events-web-storage)
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
@@ -66,11 +66,11 @@ Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento w
 - [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_
 - [ ] 5-7: _[Projeto Bônus - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo
+##### [Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos/bloco-6-html-e-css-forms-flexbox-e-responsivo/dia-1-html-css-forms)
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [ ] 6-3: _CSS Flexbox - Part 1_
+- [x] 6-3: _CSS Flexbox - Part 1_
 - [ ] 6-4: _CSS Flexbox - Part 2_
 - [ ] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - Trybewarts]()_
