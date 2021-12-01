@@ -7,7 +7,6 @@
     <title>CSS FLEXBOX - ORDER</title>
     <style>
         .container {
-            border: 1px solid black;
             display: flex;
             height: 50px;
             margin: auto;
@@ -15,10 +14,15 @@
         }
         
         .box {
-            align-items: center;
+            /* transformando o elemento em flex */
             display: flex;
-            justify-content: center;
-            width: 125px;
+            background-color: rgb(184, 74, 74);
+            color: aqua;
+            justify-content: space-around;
+            /* alinhando os items do flex com space-around */
+            align-items: center;
+            /* Espaçando os items no centro */
+            font-size: 15px;
         }
         
         .one {
