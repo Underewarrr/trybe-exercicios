@@ -1,0 +1,7 @@
+.container {
+    /* transformando o elemento em flex */
+    display: flex;
+    /* alinhando os items do flex com space-around */
+    justify-content: center;
+    margin: 20px;
+}
