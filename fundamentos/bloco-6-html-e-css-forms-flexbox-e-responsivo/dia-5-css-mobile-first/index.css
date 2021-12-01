@@ -32,7 +32,11 @@
     font-size: 15px;
 }
 
-#center-section img {
+#paragraph-section:hover {
+    box-shadow: 5px 5px 5px 5px rgba(247, 17, 17, 0.844);
+}
+
+#center-section img:hover {
     box-shadow: 5px 5px 5px 5px rgba(247, 17, 17, 0.844);
 }
 
