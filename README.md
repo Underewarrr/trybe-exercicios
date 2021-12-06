@@ -1,8 +1,8 @@
 [![CircleCI](https://circleci.com/gh/Underewarrr/trybe-exercicios/tree/main.svg?style=svg)](https://circleci.com/gh/Underewarrr/trybe-exercicios/tree/main)
 
-<img src="https://go.betrybe.com/hubfs/logo%20cortada%20branca.png" width="250">
 
 # [TRYBE](https://www.betrybe.com/)!
+<img src="https://go.betrybe.com/hubfs/logo%20cortada%20branca.png" width="250">
 
 >_This repository manage all projetcs and exercises that I've been doing at [TRYBE](https://www.betrybe.com/) while developing!as a fullstack web developer-  My name is [Rafhael Oliveira](https://www.linkedin.com/in/rafhael-oliveira/)  _ - [TRYBE | [Class XP - Group A]](https://www.betrybe.com/)  :rocket:  ![download](https://user-images.githubusercontent.com/7903924/138347214-b20c0925-a23f-491c-aa3f-42bab978b1de.png) - _Working in Progress- WIP_
 
