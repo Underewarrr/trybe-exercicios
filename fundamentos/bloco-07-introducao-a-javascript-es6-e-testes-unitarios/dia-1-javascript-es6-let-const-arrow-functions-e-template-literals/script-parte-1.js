@@ -25,9 +25,11 @@ Utilize template literals para que a chamada console.log(<seu código>oddsAndEve
 Bônus (opcional): tente fazer o mesmo exercício utilizando o método array.sort() . Spoiler: É possível realizar uma função que ordene qualquer array de números.
 Copie o código abaixo.
 */
-const oddsAndEvens = [13, 3, 4, 10, 7, 2];
+/* const oddsAndEvens = [13, 3, 4, 10, 7, 2];
 // Seu código aqui.
 oddsAndEvens.sort(function(a, b) {
     return a - b;
   });
 console.log(oddsAndEvens); // será necessário alterar essa linha 😉
+
+ */
