@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/Underewarrr/trybe-exercicios/tree/main.svg?style=svg)](https://circleci.com/gh/Underewarrr/trybe-exercicios/tree/main)<br>
+[![CircleCI](https://circleci.com/gh/Underewarrr/trybe-exercicios/tree/main.svg?style=svg)](https://circleci.com/gh/Underewarrr/trybe-exercicios/tree/main)
+
 <img src="https://go.betrybe.com/hubfs/logo%20cortada%20branca.png" width="250">
 
 # [TRYBE](https://www.betrybe.com/)!
