@@ -31,3 +31,25 @@ Exemplo:
 String determinada: "Tryber x aqui!"
 Parâmetro: "Bebeto"
 Retorno: "Tryber Bebeto aqui!" */
+
+const serverSave = (string) => {
+    let str = 'Tryber x aqui!';
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+    return str.replace(/x/g, string);
+}
+const result = serverSave('Rafhael');
+console.log(result);
+
+const arr = ['JavaScript' , 'HTML' , 'CSS' , 'Git', 'ES6'];
+const saveSkills = (string) => {
+    return `${result} Minhas cinco principais habilidades são:
+    ${arr[0]};
+    ${arr[1]};
+    ${arr[2]};
+    ${arr[3]};
+    ${arr[4]};
+    #goTrybe 
+    `
+}
+//https://stackoverflow.com/questions/53421388/create-string-template-and-replace-with-contents-of-array
+console.log(saveSkills(result));
