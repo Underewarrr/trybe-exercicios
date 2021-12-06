@@ -7,4 +7,27 @@ Na matemática, o fatorial de um número não negativo N , com a notação N! ,
 Bônus (opcional): tente fazer o mesmo exercício de forma recursiva . Spoiler: 
 É possível resolver com uma linha usando ternary operator . */
 const factorial = (n) => n > 1 ? n * factorial(n - 1) : 1;
-console.log(factorial(5));
+  console.log(factorial(5));
+/* Crie uma função que receba uma frase e retorne qual a maior palavra. */
+
+const longestWord = (tm) => {
+    let longestWord = '';
+    longestWord.split(' ').forEach((word) => { if (word.length > longestWord.length) longestWord = word; });
+    return longestWord;
+}
+console.log(longestWord("Antônio foi no banheiro e não sabemos o que aconteceu")) // retorna 'aconteceu'
+/* Crie uma página que contenha:
+Um botão ao qual será associado um event listener ;
+Uma variável clickCount no arquivo JavaScript que acumule o número de clicks no botão;
+Um campo no HTML que vá atualizando a quantidade de clicks no botão conforme a variável clickCount é atualizada. */
+const button = document.querySelector('#clickb');
+const span = document.querySelector('#countc');
+button.addEventListener('click', () => { span.innerText = +span.innerText + 1; });
+
+/* Crie um código JavaScript com a seguinte especificação:
+Não se esqueça de usar template literals
+Função 1 : Escreva uma função que vai receber uma string como parâmetro. Sua função deverá procurar pela letra x em uma string qualquer que você determinar e substituir pela string que você passou como parâmetro. Sua função deve retornar essa nova string .
+Exemplo:
+String determinada: "Tryber x aqui!"
+Parâmetro: "Bebeto"
+Retorno: "Tryber Bebeto aqui!" */
