@@ -2,25 +2,15 @@
     "name": "trybe-exercicios",
     "version": "1.0.0",
     "description": "Este'repositório foi desenvolvido enquanto estudante na Trybe.",
-    "main": "script.js",
-    "scripts": {
-      "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js, .jsx",
-      "lint:styles": "stylelint **/*.css --config .stylelintrc.json --ignore-disables --allow-empty-input",
-      "npm test": "npm test",
-      "test": "npm test"
-    },
     "repository": {
       "type": "git",
       "url": "git+https://github.com/Underewarrr/trybe-exercicios.git"
     },
     "keywords": [],
-    "author": "",
+    "author": "Rafhael Oliveira",
     "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/Underewarrr/trybe-exercicios.git"
-    },
     "homepage": "https://github.com/Underewarrr/trybe-exercicios#readme",
-    "devDependencies": {
+    "dependencies": {
       "@types/cypress": "1.1.3",
       "cypress": "6.8.0",
       "cypress-layout-inspector": "1.5.0",
