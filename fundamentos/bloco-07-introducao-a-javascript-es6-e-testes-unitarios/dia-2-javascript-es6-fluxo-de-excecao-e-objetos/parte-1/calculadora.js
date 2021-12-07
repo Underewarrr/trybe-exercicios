@@ -35,13 +35,13 @@ const sum = () => {
 };
   const verifyNunber = (value1, value2) => {
     if (value1.typeof !==  'number' || value2.typeof !== 'number') {
-      throw new Error('O valor deve ser Numerico');
+      throw new Error('O valor deve ser Numerico', isNaN(true));
     }
   }
 
   const verifyNumberLength = (value1, value2) => {
     if (value1.length <= 0 || value2.length <= 0) {
-      throw new Error('O input deve receber um valor maior que zero', isNaN());
+      throw new Error('O input deve receber um valor maior que zero');
     }
   };
 
