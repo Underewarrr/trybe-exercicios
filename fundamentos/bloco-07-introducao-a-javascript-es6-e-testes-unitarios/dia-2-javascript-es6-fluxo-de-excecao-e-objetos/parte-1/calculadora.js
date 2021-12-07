@@ -26,14 +26,19 @@ const sum = () => {
   document.getElementById('value1').value = '';
   document.getElementById('value2').value = '';
   try {
-    verifyIsNumber(value1, value2);
+    verifyNumberLength(value1, value2);
     return value1 + value2;
   } catch (error) {
     throw error.message;
   }
 };
+  const verifyNunber = (value1, value2) => {
+    if (value1.typeof !==  'number' || value2.typeof !== 'number') {
+      throw new Error('O valor deve ser Numerico', isNan(true));
+    }
+  }
 
-  const verifyIsNumber = (value1, value2) => {
+  const verifyNumberLength = (value1, value2) => {
     if (value1.length <= 0 || value2.length <= 0) {
       throw new Error('O input deve receber um valor maior que zero');
     }
