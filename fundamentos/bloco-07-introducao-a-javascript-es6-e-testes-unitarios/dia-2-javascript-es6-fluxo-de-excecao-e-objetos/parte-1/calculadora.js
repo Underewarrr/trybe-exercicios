@@ -17,20 +17,29 @@ const sum = (value1, value2) => {
 
 console.log(sum(2, '3'));
 */
-function sum() {
-    const value1 = document.getElementById('value1').value;
-    const value2 = document.getElementById('value2').value;
-    const result = parseInt(value1) + parseInt(value2);
-    document.getElementById('result').innerHTML = `Resultado: ${result}`;
-    document.getElementById('value1').value = '';
-    document.getElementById('value2').value = '';
-  };  
+ 
+const sum = () => {
+  const value1 = document.getElementById('value1').value;
+  const value2 = document.getElementById('value2').value;
+  const result = parseInt(value1) + parseInt(value2);
+  document.getElementById('result').innerHTML = `Resultado: ${result}`;
+  document.getElementById('value1').value = '';
+  document.getElementById('value2').value = '';
+  try {
+    verifyIsNumber(value1, value2);
+    return value1 + value2;
+  } catch (error) {
+    throw error.message;
+  }
+};
 
   const verifyIsNumber = (value1, value2) => {
-    if ((value1.length <= 0 || value2.length <= 0) {
+    if (value1.length <= 0 || value2.length <= 0) {
       throw new Error('O input deve receber um valor maior que zero');
     }
   };
+
+  
 
   window.onload = () => {
     const button = document.getElementById('button');
