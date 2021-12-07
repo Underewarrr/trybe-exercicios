@@ -31,6 +31,8 @@ const sum = () => {
     return value1 + value2;
   } catch (error) {
     throw error.message;
+  }finally {
+    console.log("finally");//Working
   }
 };
   const verifyNunber = (value1, value2) => {
