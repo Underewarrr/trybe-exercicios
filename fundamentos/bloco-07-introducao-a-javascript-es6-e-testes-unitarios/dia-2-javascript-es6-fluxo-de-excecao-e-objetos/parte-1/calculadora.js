@@ -24,7 +24,7 @@ function sum() {
     document.getElementById('result').innerHTML = `Resultado: ${result}`;
     document.getElementById('value1').value = '';
     document.getElementById('value2').value = '';
-    if (value1.length >= 0 ||value2.length >= 0) {
+    if (value1.length <= 0 || value2.length <= 0) {
       throw new Error('Insira mais de um numero');
     }
    
