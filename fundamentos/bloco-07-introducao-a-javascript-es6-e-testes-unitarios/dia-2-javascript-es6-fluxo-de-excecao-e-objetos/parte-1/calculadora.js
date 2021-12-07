@@ -27,8 +27,8 @@ function sum() {
   };  
 
   const verifyIsNumber = (value1, value2) => {
-    if (typeof value1 !== 'number' || typeof value2 !== 'number') {
-      throw new Error('Os valores devem ser numéricos');
+    if ((value1.length <= 0 || value2.length <= 0) {
+      throw new Error('O input deve receber um valor maior que zero');
     }
   };
 
