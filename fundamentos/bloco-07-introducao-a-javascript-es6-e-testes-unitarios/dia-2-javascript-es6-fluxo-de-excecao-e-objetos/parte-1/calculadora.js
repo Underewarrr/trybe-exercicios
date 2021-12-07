@@ -24,11 +24,13 @@ function sum() {
     document.getElementById('result').innerHTML = `Resultado: ${result}`;
     document.getElementById('value1').value = '';
     document.getElementById('value2').value = '';
-    if (value1.length <= 0 || value2.length <= 0) {
-      throw new Error('Insira mais de um numero');
-    }
-   
   };  
+
+  const verifyIsNumber = (value1, value2) => {
+    if (typeof value1 !== 'number' || typeof value2 !== 'number') {
+      throw new Error('Os valores devem ser numéricos');
+    }
+  };
 
   window.onload = () => {
     const button = document.getElementById('button');
