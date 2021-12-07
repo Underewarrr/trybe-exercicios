@@ -1,6 +1,8 @@
-<img src="https://go.betrybe.com/hubfs/logo%20cortada%20branca.png" width="250">
+[![CircleCI](https://circleci.com/gh/Underewarrr/trybe-exercicios/tree/main.svg?style=svg)](https://circleci.com/gh/Underewarrr/trybe-exercicios/tree/main)
+
 
 # [TRYBE](https://www.betrybe.com/)!
+<img src="https://go.betrybe.com/hubfs/logo%20cortada%20branca.png" width="250">
 
 >_This repository manage all projetcs and exercises that I've been doing at [TRYBE](https://www.betrybe.com/) while developing!as a fullstack web developer-  My name is [Rafhael Oliveira](https://www.linkedin.com/in/rafhael-oliveira/)  _ - [TRYBE | [Class XP - Group A]](https://www.betrybe.com/)  :rocket:  ![download](https://user-images.githubusercontent.com/7903924/138347214-b20c0925-a23f-491c-aa3f-42bab978b1de.png) - _Working in Progress- WIP_
 
@@ -73,11 +75,11 @@ Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento w
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - Trybewarts]()_
+- [x] 6-6: _[Projeto - Trybewarts]()_
 
 ##### Bloco 7: Introdução à JavaScript ES6 & Testes Unitários
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
+- [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [ ] 7-2: _JavaScript ES6 - Objects_
 - [ ] 7-3: _Primeiros passos em Jest_
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
