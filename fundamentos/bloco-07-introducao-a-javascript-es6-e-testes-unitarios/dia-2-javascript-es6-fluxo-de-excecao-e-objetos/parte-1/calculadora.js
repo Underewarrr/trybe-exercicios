@@ -27,6 +27,7 @@ const sum = () => {
   document.getElementById('value2').value = '';
   try {
     verifyNumberLength(value1, value2);
+    verifyNunber(value1, value2)
     return value1 + value2;
   } catch (error) {
     throw error.message;
@@ -34,13 +35,13 @@ const sum = () => {
 };
   const verifyNunber = (value1, value2) => {
     if (value1.typeof !==  'number' || value2.typeof !== 'number') {
-      throw new Error('O valor deve ser Numerico', isNan(true));
+      throw new Error('O valor deve ser Numerico');
     }
   }
 
   const verifyNumberLength = (value1, value2) => {
     if (value1.length <= 0 || value2.length <= 0) {
-      throw new Error('O input deve receber um valor maior que zero');
+      throw new Error('O input deve receber um valor maior que zero', isNaN());
     }
   };
 
