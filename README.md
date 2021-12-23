@@ -1,6 +1,6 @@
-[![CircleCI](https://circleci.com/gh/Underewarrr/trybe-exercicios/tree/main.svg?style=svg)](https://circleci.com/gh/Underewarrr/trybe-exercicios/tree/main)
 
 ![Git Hub Repo Size](https://img.shields.io/github/repo-size/underewarrr/trybe-exercicios)
+
 
 
 # [TRYBE](https://www.betrybe.com/)!
