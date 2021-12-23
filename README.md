@@ -1,5 +1,5 @@
 [![CircleCI](https://circleci.com/gh/Underewarrr/trybe-exercicios/tree/main.svg?style=svg)](https://circleci.com/gh/Underewarrr/trybe-exercicios/tree/main)
-
+![GitHub repo size](https://img.shields.io/github/repo-size/underewarrr/trybe-exercicios
 
 # [TRYBE](https://www.betrybe.com/)!
 <img src="https://go.betrybe.com/hubfs/logo%20cortada%20branca.png" width="250">
