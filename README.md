@@ -304,7 +304,7 @@ Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento w
 - [ ] 37-4: _[Projeto - TING (Trybe Is Not Google)]()_
 
 
-
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=Underewarrr&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Trybe-Exercicios" />
 **Referências e Fontes de inspiração:**
 
 
