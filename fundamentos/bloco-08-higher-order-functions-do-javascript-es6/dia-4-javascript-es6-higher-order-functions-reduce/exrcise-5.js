@@ -7,8 +7,7 @@ const names = [
   function containsA() {
     // escreva seu código aqui
     const verify = (names) => {
-        names.reduce((result, names) => {
-            // transform all to lowercase first
+                // transform all to lowercase first
             // using include to search for an element matching
             names.toLowerCase().includes('a')
             // if name to lower case if found wihout spaces
@@ -20,5 +19,5 @@ const names = [
             )
         })
     }
-}
-  }
+
+console.log(containsA(names));
