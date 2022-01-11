@@ -303,7 +303,6 @@ Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento w
 - [ ] 37-3: _Pilhas_
 - [ ] 37-4: _[Projeto - TING (Trybe Is Not Google)]()_
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trybe-exercicios" alt="trybe-exercicios" /> </p>
 **Referências e Fontes de inspiração:**
 
 
