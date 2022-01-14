@@ -23,6 +23,7 @@ const fetchCoins = async () => {
     return usdCurrencies;
   };
   
+  
   const setCoins = async () => {
     const coins = await fetchCoins();
     const usdCurrencies = await fetchUsdCurrencies();

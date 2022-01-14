@@ -11,6 +11,7 @@ const fetchJoke = () => {
 
 fetchJoke();
 
+
 // Algo deu errado :( 
 // TypeError: Only absolute URLs are supported */
 const fetch = require('node-fetch');

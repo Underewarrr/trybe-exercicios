@@ -13,6 +13,7 @@ const fetchCoins = async () => {
   const setCoins = async () => {
     const coins = await fetchCoins();
   
+    
     const coinsList = document.getElementById('coins-list');
   
     coins.forEach((coin) => {

@@ -9,6 +9,7 @@ const fetchCoins = async () => {
   
     return coins;
   }
+
   
   const setCoins = async () => {
     const coins = await fetchCoins();
