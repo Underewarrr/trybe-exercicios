@@ -1,14 +1,28 @@
-const API_URL = "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest" ;
+// api.js
+const fetchCoins = async () => {
+  const url = 'https://api.coincap.io/v2/assets';
 
-const fetchJoke = () => {
-  const myObject = {
-    method: 'GET',
-    endpoint: `/currencies/usd.min.json`
-  };
+  const coins = await fetch(url)
+    .then((response) => response.json())
+    .then((data) => data.data)
+    .catch((error) => error.toString());
 
-  fetch(API_URL, myObject)
-    .then(response => response.json())
-    .then(data => console.log(data));
-};
+  return coins;
+}
 
-window.onload = () => fetchJoke();
+const setCoins = async () => {
+  const coins = await fetchCoins();
+
+  const coinsList = document.getElementById('coins-list');
+
+  coins.forEach((coin) => {
+    const newLi = document.createElement('li');
+    const usdPrice = Number(coin.priceUsd);
+
+    newLi.innerText = `${coin.name} (${coin.symbol}): ${usdPrice.toFixed(2)}`;
+
+    coinsList.appendChild(newLi);
+  });
+}
+
+window.onload = () => setCoins();
