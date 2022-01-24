@@ -90,7 +90,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### [Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo]
 
-- [x] 6-1: [_HTML & CSS - Forms_(https://github.com/Underewarrr/trybe-exercicios/pull/17)
+- [x] 6-1: [_HTML & CSS - Forms_](https://github.com/Underewarrr/trybe-exercicios/pull/17)
 - [x] 6-2: [_Bibliotecas JavaScript e Frameworks CSS_](https://github.com/Underewarrr/trybe-exercicios/pull/17)
 - [x] 6-3: [_CSS Flexbox - Part 1_](https://github.com/Underewarrr/trybe-exercicios/pull/18)
 - [x] 6-4: [_CSS Flexbox - Part 2_](https://github.com/Underewarrr/trybe-exercicios/pull/18)
