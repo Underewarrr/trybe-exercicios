@@ -1,116 +1,176 @@
 
-![Git Hub Repo Size](https://img.shields.io/github/repo-size/underewarrr/trybe-exercicios)
+![Git Hub Repo Size](https://img.shields.io/github/repo-size/underewarrr/trybe-exercicios)<br>
+<a href="https://www.linkedin.com/in/rafhael-oliveira/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
+
+<br />
+<br />
+
+Olá, me chamo **Rafhael Oliveira**, sou de Minas Gerais, Brasil e atualmente sou  **Estudante de Desenvolvimento Web Full Stack | Trybe | Turma 
+XP** 🚀.<br>
+_A escola que te ensina a programar, a aprender e a trabalhar. E você tem a opção de começar a pagar só quando já estiver trabalhando_
+
+### Introdução
+Você pode encontrar a lista dos PR's, em ordem cronologica.
+- Cada conteudo tem seu PR
+
+A organização é simples cada etapa iniciada um PR é aberto e quando finalizado o PR é fechado, para facilitar a busca.
 
 
-
-# [TRYBE](https://www.betrybe.com/)!
-<img src="https://go.betrybe.com/hubfs/logo%20cortada%20branca.png" width="250">
-
->_This repository manage all projetcs and exercises that I've been doing at [TRYBE](https://www.betrybe.com/) while developing!as a fullstack web developer-  My name is [Rafhael Oliveira](https://www.linkedin.com/in/rafhael-oliveira/)  _ - [TRYBE | [Class XP - Group A]](https://www.betrybe.com/)  :rocket:  ![download](https://user-images.githubusercontent.com/7903924/138347214-b20c0925-a23f-491c-aa3f-42bab978b1de.png) - _Working in Progress- WIP_
-
-## _Who is Trybe_
->A [_Trybe_](https://www.betrybe.com/) é uma escola de desenvolvimento web que te ensina a programar, a aprender e a trabalhar.
-
->"A [_Trybe_](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho.
-O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."(1)
-
-
-**Seus objetivos são:**
-
->Formar pessoas nas profissões que são e serão demandadas pelo mercado de trabalho, respeitando ao máximo o tempo, o dinheiro e os sonhos das pessoas estudantes ao assumir o compromisso efetivo com o sucesso de cada uma. Assim, trabalhamos ativamente desde o início da formação para preparar e conectar estudantes com o mercado de trabalho.
-Ajudar também as empresas que precisam de profissionais de qualidade para crescer, escalar seus produtos e serviços e executar suas teses de transformação digital. Hoje essas empresas não conseguem atender suas necessidades de recrutamento devido ao gargalo estrutural de mão de obra qualificada no setor.
-Com isso, ajudar o Brasil a ser um país mais produtivo e com mais oportunidades, que gere mais trabalho e renda para a população e que tenha condições de disputar posições de destaque no cenário internacional, visto que cada vez mais o digital ganha um papel relevante no desempenho econômico e social no mundo.
-Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento web e estão dispostas a serem protagonistas de suas trajetórias, a [_Trybe_](https://www.betrybe.com/) é uma escola que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes.
-
-
-
+Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pages **(O Github pages esta em desenvolvimento)**.
+- Você pode visualizar quais habilidades foram utilizadas para desenvolver o projeto a baixo
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
-##### [Bloco 1: Introdução - Unix & Bash](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos)
 
-- [X] 1-3: _Fundamentos do Desenvolvimento Web_
-- [X] 1-3: _Introdução - Unix & Shell_
-- [X] 1-3: _Unix & Bash - Part 1_
-- [X] 1-4: _Unix & Bash - Part 2_
+##### [Bloco 1: Introdução - Unix & Bash]
 
-##### [Bloco 2: Git, GitHub e Internet](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos)
+- [X] 1-3: [_Fundamentos do Desenvolvimento Web_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
+- [X] 1-3: [_Introdução - Unix & Shell_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
+- [X] 1-3: [_Unix & Bash - Part 1_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
+- [X] 1-4: [_Unix & Bash - Part 2_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
 
-- [X] 2-1: _Git & GitHub - O que é e para que serve?_
-- [X] 2-2: _Git & GitHub - Entendendo os comandos_
-- [X] 2-3: _Internet - Entendendo como ela funciona_
+##### [Bloco 2: Git, GitHub e Internet]
 
-##### [Bloco 3: Introdução à HTML & CSS](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos)
+- [X] 2-1: [_Git & GitHub - O que é e para que serve?_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
+- [X] 2-2: [_Git & GitHub - Entendendo os comandos_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
+- [X] 2-3: [_Internet - Entendendo como ela funciona_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
 
-- [X] 3-1: _Introdução - HTML & CSS_
-- [X] 3-1: _HTML & CSS - Estruturas de página_
-- [X] 3-2: _HTML & CSS - Primeiros passos em CSS_
-- [X] 3-3: _HTML & CSS - Seletores e posicionamento_
-- [X] 3-4: _HTML Semântico_
-- [X] 3-5: _[Projeto - Lessons Learned])_
+##### [Bloco 3: Introdução à HTML & CSS]
 
-##### [Bloco 4: Introdução à JavaScript e Lógica de Programação](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos)
+- [X] 3-1: [_Introdução - HTML & CSS_](https://github.com/Underewarrr/trybe-exercicios/pull/2)
+- [X] 3-1: [_HTML & CSS - Estruturas de página_](https://github.com/Underewarrr/trybe-exercicios/pull/2)
+- [X] 3-2: [_HTML & CSS - Primeiros passos em CSS_](https://github.com/Underewarrr/trybe-exercicios/pull/2)
+- [X] 3-3: [_HTML & CSS - Seletores e posicionamento_](https://github.com/Underewarrr/trybe-exercicios/pull/2)
+- [X] 3-4: [_HTML Semântico_](https://github.com/Underewarrr/trybe-exercicios/pull/2)
+- [X] 3-5: _**Projeto - Lessons Learned**_
+<details>
+<summary>Habilidades</summary>
+<br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<br><br>
+</details>
 
-- [X] 4-1: _Introdução - JavaScript_
-- [X] 4-1: _JavaScript - Primeiros passos_
-- [X] 4-2: _JavaScript - Array e loop For_
-- [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
-- [X] 4-4: _JavaScript - Objetos e Funções_
-- [X] 4-5: _[Projeto - Playground Functions]()_
+##### [Bloco 4: Introdução à JavaScript e Lógica de Programação]
 
-##### [Bloco 5: JavaScrip: DOM, Eventos e Web Storage](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos/bloco-05-javascript-dom-events-web-storage)
+- [X] 4-1: [_Introdução - JavaScript_](https://github.com/Underewarrr/trybe-exercicios/pull/3)
+- [X] 4-1: [_JavaScript - Primeiros passos_](https://github.com/Underewarrr/trybe-exercicios/pull/4)
+- [X] 4-2: [_JavaScript - Array e loop For_](https://github.com/Underewarrr/trybe-exercicios/pull/5)
+- [X] 4-3: [_JavaScript - Lógica de Programação e Algoritmos_](https://github.com/Underewarrr/trybe-exercicios/pull/6)
+- [X] 4-4: [_JavaScript - Objetos e Funções_](https://github.com/Underewarrr/trybe-exercicios/pull/8)
+- [X] 4-5: _**Projeto - Playground Functions**_
 
-- [x] 5-1: _JavaScript - DOM e seletores_
-- [x] 5-2: _JavaScript - Trabalhando com elementos_
-- [x] 5-3: _JavaScript - Eventos_
-- [x] 5-4: _JavaScript - Web Storage_
-- [x] 5-5: _Fundamentos - JavaScript - Projetos_
-- [x] 5-5: _[Projeto - Arte com Pixels]()_
-- [x] 5-6: _[Projeto - Lista de Tarefas]()_
-- [ ] 5-7: _[Projeto Bônus - Meme Generator]()_
-- [ ] 5-7: _[Projeto Bônus - Adivinhe a Cor]()_
-- [ ] 5-7: _[Projeto Bônus - Carta Misteriosa]()_
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</details>
 
-##### [Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo](https://github.com/Underewarrr/trybe-exercicios/tree/main/fundamentos/bloco-6-html-e-css-forms-flexbox-e-responsivo/dia-1-html-css-forms)
 
-- [x] 6-1: _HTML & CSS - Forms_
-- [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
-- [x] 6-3: _CSS Flexbox - Part 1_
-- [x] 6-4: _CSS Flexbox - Part 2_
-- [x] 6-5: _CSS Responsivo - Mobile First_
-- [x] 6-6: _[Projeto - Trybewarts]()_
+##### [Bloco 5: JavaScrip: DOM, Eventos e Web Storage]
+
+- [x] 5-1: [_JavaScript - DOM e seletores_](https://github.com/Underewarrr/trybe-exercicios/pull/14)
+- [x] 5-2: [_JavaScript - Trabalhando com elementos_](https://github.com/Underewarrr/trybe-exercicios/pull/15)
+- [x] 5-3: [_JavaScript - Eventos_](https://github.com/Underewarrr/trybe-exercicios/pull/16)
+- [x] 5-4: [_JavaScript - Web Storage_](https://github.com/Underewarrr/trybe-exercicios/pull/16)
+- [x] 5-5: _**Projeto - Arte com Pixels**_
+- [x] 5-6: _**Projeto - Lista de Tarefas**_
+- [ ] 5-7: _**Projeto Bônus - Meme Generator**_
+- [ ] 5-7: _**Projeto Bônus - Adivinhe a Cor**_
+- [ ] 5-7: _**Projeto Bônus - Carta Misteriosa**_
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</details>
+
+##### [Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo]
+
+- [x] 6-1: [_HTML & CSS - Forms_(https://github.com/Underewarrr/trybe-exercicios/pull/17)
+- [x] 6-2: [_Bibliotecas JavaScript e Frameworks CSS_](https://github.com/Underewarrr/trybe-exercicios/pull/17)
+- [x] 6-3: [_CSS Flexbox - Part 1_](https://github.com/Underewarrr/trybe-exercicios/pull/18)
+- [x] 6-4: [_CSS Flexbox - Part 2_](https://github.com/Underewarrr/trybe-exercicios/pull/18)
+- [x] 6-5: [_CSS Responsivo - Mobile First_](https://github.com/Underewarrr/trybe-exercicios/pull/18)
+- [x] 6-6: _**Projeto - Trybewarts**_
+
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+
+  ![image](https://user-images.githubusercontent.com/74227915/150801861-b391fa42-44f1-42cd-a502-1ff1cd55be8b.png)
+
+</details>
 
 ##### Bloco 7: Introdução à JavaScript ES6 & Testes Unitários
 
-- [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
-- [x] 7-2: _JavaScript ES6 - Objects_
-- [x] 7-3: _Primeiros passos em Jest_
-- [x] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [x] 7-1: [_JavaScript ES6 - let, const, arrow functions e template literals_](https://github.com/Underewarrr/trybe-exercicios/pull/19)
+- [x] 7-2: [_JavaScript ES6 - Objects_](https://github.com/Underewarrr/trybe-exercicios/pull/22)
+- [x] 7-3: [_Primeiros passos em Jest_](https://github.com/Underewarrr/trybe-exercicios/pull/23)
+- [x] 7-3: [_Primeiros passos em Jest_](https://github.com/Underewarrr/trybe-exercicios/pull/24)
+- [x] 7-4: _**Projeto - JavaScript Testes Unitários**_
+
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</details>
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
 
-- [x] 8-1: _JavaScript ES6 - Introdução à Higher Order Functions_
-- [x] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-6: _[Projeto - Zoo functions]()_
+- [x] 8-1: [_JavaScript ES6 - Introdução à Higher Order Functions_](https://github.com/Underewarrr/trybe-exercicios/pull/26)
+- [x] 8-2: [_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_](https://github.com/Underewarrr/trybe-exercicios/pull/27)
+- [x] 8-3: [_JavaScript ES6 - Higher Order Functions - map e filter_](https://github.com/Underewarrr/trybe-exercicios/pull/28)
+- [x] 8-4: [_JavaScript ES6 - Higher Order Functions - reduce_](https://github.com/Underewarrr/trybe-exercicios/pull/29)
+- [x] 8-5: [_JavaScript ES6 - spread operator, rest parameter, destructuring e mais_](https://github.com/Underewarrr/trybe-exercicios/pull/30)
+- [x] 8-6: _[Projeto - Zoo functions]()_
+
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</details>
 
 ##### Bloco 9: JavaScript e Testes Assíncronos
 
-- [ ] 9-1: _JavaScript Assíncrono e Callbacks_
-- [ ] 9-2: _JavaScript Assí­ncrono - Fetch API e async/await_
-- [ ] 9-3: _Jest - Testes Assíncronos_
-- [ ] 9-4: _[Projeto - Carrinho de Compras]()_
+- [x] 9-1: [_JavaScript Assíncrono e Callbacks_](https://github.com/Underewarrr/trybe-exercicios/pull/31)
+- [x] 9-2: [_JavaScript Assí­ncrono - Fetch API e async/await_](https://github.com/Underewarrr/trybe-exercicios/pull/31)
+- [x] 9-3: [_Jest - Testes Assíncronos_](https://github.com/Underewarrr/trybe-exercicios/pull/32)
+- [x] 9-4: _[Projeto - Carrinho de Compras]()_
+
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  
+  ![image](https://user-images.githubusercontent.com/74227915/150803467-6c3b4133-4b83-4bb8-a4f2-49f20d3f2887.png)
+
+</details>
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
 ##### Bloco 10: Introdução à React
 
-- [ ] 10-1: _Introdução - Front-end_
-- [ ] 10-1: _Introdução - React_
-- [ ] 10-1: _'Hello, world!' no React!_
-- [ ] 10-2: _Componentes React_
-- [ ] 10-3: _[Projeto - Sistema Solar]()_
+- [x] 10-1: [_Introdução - Front-end_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
+- [x] 10-1: [_Introdução - React_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
+- [x] 10-1: [_'Hello, world!' no React!_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
+- [x] 10-2: [_Componentes React_](https://github.com/Underewarrr/trybe-exercicios/pull/34)
+- [ ] 10-3: _**Projeto - Sistema Solar**_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
@@ -303,7 +363,21 @@ Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento w
 - [ ] 37-3: _Pilhas_
 - [ ] 37-4: _[Projeto - TING (Trybe Is Not Google)]()_
 
-**Referências e Fontes de inspiração:**
+# [TRYBE](https://www.betrybe.com/)!
+<img src="https://go.betrybe.com/hubfs/logo%20cortada%20branca.png" width="250">
 
 
->1 - [Gilson Nogueira](https://github.com/engnogueira)
+## _Who is Trybe_
+
+>"A [_Trybe_](https://www.betrybe.com/) é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho.
+O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."(1)
+
+
+**Seus objetivos são:**
+
+>Formar pessoas nas profissões que são e serão demandadas pelo mercado de trabalho, respeitando ao máximo o tempo, o dinheiro e os sonhos das pessoas estudantes ao assumir o compromisso efetivo com o sucesso de cada uma. Assim, trabalhamos ativamente desde o início da formação para preparar e conectar estudantes com o mercado de trabalho.
+Ajudar também as empresas que precisam de profissionais de qualidade para crescer, escalar seus produtos e serviços e executar suas teses de transformação digital. Hoje essas empresas não conseguem atender suas necessidades de recrutamento devido ao gargalo estrutural de mão de obra qualificada no setor.
+Com isso, ajudar o Brasil a ser um país mais produtivo e com mais oportunidades, que gere mais trabalho e renda para a população e que tenha condições de disputar posições de destaque no cenário internacional, visto que cada vez mais o digital ganha um papel relevante no desempenho econômico e social no mundo.
+Para pessoas dedicadas e estudiosas que buscam uma carreira em desenvolvimento web e estão dispostas a serem protagonistas de suas trajetórias, a [_Trybe_](https://www.betrybe.com/) é uma escola que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes.
+
+
