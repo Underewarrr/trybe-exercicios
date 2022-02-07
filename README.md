@@ -170,17 +170,17 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 10-1: [_Introdução - React_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
 - [x] 10-1: [_'Hello, world!' no React!_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
 - [x] 10-2: [_Componentes React_](https://github.com/Underewarrr/trybe-exercicios/pull/34)
-- [ ] 10-3: _**Projeto - Sistema Solar**_
+- [x] 10-3: _**Projeto - Sistema Solar**_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [ ] 11-1: _Componentes com Estado e Eventos_
-- [ ] 11-2: _Formulários no React_
-- [ ] 11-3: _[Projeto - Tryunfo]()_
+- [x] 11-1: _Componentes com Estado e Eventos_
+- [x] 11-2: _Formulários no React_
+- [x] 11-3: _[Projeto - Tryunfo]()_
 
 ##### Bloco 12: Ciclo de vida de componentes e React Router
 
-- [ ] 12-1: _Ciclo de vida de componentes_
+- [x] 12-1: _Ciclo de vida de componentes_
 - [ ] 12-2: _React Router_
 - [ ] 12-3: _[Projeto - TrybeTunes]()_
 
