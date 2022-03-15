@@ -44,6 +44,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [X] 3-3: [_HTML & CSS - Seletores e posicionamento_](https://github.com/Underewarrr/trybe-exercicios/pull/2)
 - [X] 3-4: [_HTML Semântico_](https://github.com/Underewarrr/trybe-exercicios/pull/2)
 - [X] 3-5: _**Projeto - Lessons Learned**_
+- 
 <details>
 <summary>Habilidades</summary>
 <br>
@@ -59,11 +60,12 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [X] 4-2: [_JavaScript - Array e loop For_](https://github.com/Underewarrr/trybe-exercicios/pull/5)
 - [X] 4-3: [_JavaScript - Lógica de Programação e Algoritmos_](https://github.com/Underewarrr/trybe-exercicios/pull/6)
 - [X] 4-4: [_JavaScript - Objetos e Funções_](https://github.com/Underewarrr/trybe-exercicios/pull/8)
-- [X] 4-5: _**Projeto - Playground Functions**_
+- [X] 4-5: [Projeto - Playground Functions_]()
 
 <details>
 <summary>Habilidades</summary>
 <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </details>
 
@@ -74,18 +76,22 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 5-2: [_JavaScript - Trabalhando com elementos_](https://github.com/Underewarrr/trybe-exercicios/pull/15)
 - [x] 5-3: [_JavaScript - Eventos_](https://github.com/Underewarrr/trybe-exercicios/pull/16)
 - [x] 5-4: [_JavaScript - Web Storage_](https://github.com/Underewarrr/trybe-exercicios/pull/16)
-- [x] 5-5: _**Projeto - Arte com Pixels**_
+- [x] 5-5: [Projeto - Pixels Art]()
 - [x] 5-6: _**Projeto - Lista de Tarefas**_
 - [ ] 5-7: _**Projeto Bônus - Meme Generator**_
 - [ ] 5-7: _**Projeto Bônus - Adivinhe a Cor**_
 - [ ] 5-7: _**Projeto Bônus - Carta Misteriosa**_
+
 <details>
 <summary>Habilidades</summary>
 <br>
+
+  <img src="https://github.com/tryber/sd-018-a-project-pixels-art/raw/master/art-with-pixels.gif" alt="Projeto Pixel art" width="300" height="350"/>
+  <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </details>
 
 ##### [Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo]
@@ -95,17 +101,16 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 6-3: [_CSS Flexbox - Part 1_](https://github.com/Underewarrr/trybe-exercicios/pull/18)
 - [x] 6-4: [_CSS Flexbox - Part 2_](https://github.com/Underewarrr/trybe-exercicios/pull/18)
 - [x] 6-5: [_CSS Responsivo - Mobile First_](https://github.com/Underewarrr/trybe-exercicios/pull/18)
-- [x] 6-6: _**Projeto - Trybewarts**_
+- [x] 6-6: [Projeto - Trybewarts]()
 
 <details>
 <summary>Habilidades</summary>
 <br>
+  <img src="https://github.com/tryber/sd-018-a-project-trybewarts/raw/main/pagina-principal.png" alt="Projeto Trybe Warts" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-
-  ![image](https://user-images.githubusercontent.com/74227915/150801861-b391fa42-44f1-42cd-a502-1ff1cd55be8b.png)
-
+ 
 </details>
 
 ##### Bloco 7: Introdução à JavaScript ES6 & Testes Unitários
@@ -114,7 +119,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 7-2: [_JavaScript ES6 - Objects_](https://github.com/Underewarrr/trybe-exercicios/pull/22)
 - [x] 7-3: [_Primeiros passos em Jest_](https://github.com/Underewarrr/trybe-exercicios/pull/23)
 - [x] 7-3: [_Primeiros passos em Jest_](https://github.com/Underewarrr/trybe-exercicios/pull/24)
-- [x] 7-4: _**Projeto - JavaScript Testes Unitários**_
+- [x] 7-4: [Projeto - JavaScript Testes Unitários]()
 
 <details>
 <summary>Habilidades</summary>
@@ -122,7 +127,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </details>
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
@@ -132,7 +137,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 8-3: [_JavaScript ES6 - Higher Order Functions - map e filter_](https://github.com/Underewarrr/trybe-exercicios/pull/28)
 - [x] 8-4: [_JavaScript ES6 - Higher Order Functions - reduce_](https://github.com/Underewarrr/trybe-exercicios/pull/29)
 - [x] 8-5: [_JavaScript ES6 - spread operator, rest parameter, destructuring e mais_](https://github.com/Underewarrr/trybe-exercicios/pull/30)
-- [x] 8-6: _[Projeto - Zoo functions]()_
+- [x] 8-6: [Projeto - Zoo functions]()
 
 <details>
 <summary>Habilidades</summary>
@@ -140,7 +145,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </details>
 
 ##### Bloco 9: JavaScript e Testes Assíncronos
@@ -148,18 +153,16 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 9-1: [_JavaScript Assíncrono e Callbacks_](https://github.com/Underewarrr/trybe-exercicios/pull/31)
 - [x] 9-2: [_JavaScript Assí­ncrono - Fetch API e async/await_](https://github.com/Underewarrr/trybe-exercicios/pull/31)
 - [x] 9-3: [_Jest - Testes Assíncronos_](https://github.com/Underewarrr/trybe-exercicios/pull/32)
-- [x] 9-4: _[Projeto - Carrinho de Compras]()_
+- [x] 9-4: [Projeto - Carrinho de Compras]()
 
 <details>
 <summary>Habilidades</summary>
 <br>
+  <img src="https://github.com/tryber/sd-018-a-project-shopping-cart/raw/master/prototipo.gif" alt="Projeto Carrinho de Compras"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  
-  ![image](https://user-images.githubusercontent.com/74227915/150803467-6c3b4133-4b83-4bb8-a4f2-49f20d3f2887.png)
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </details>
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
@@ -170,13 +173,37 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 10-1: [_Introdução - React_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
 - [x] 10-1: [_'Hello, world!' no React!_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
 - [x] 10-2: [_Componentes React_](https://github.com/Underewarrr/trybe-exercicios/pull/34)
-- [x] 10-3: _**Projeto - Sistema Solar**_
+- [x] 10-3: [Projeto Sistema Solar]()
+
+<details>
+
+<summary>Habilidades</summary>
+<br>
+
+  <img src="https://user-images.githubusercontent.com/74227915/158425493-96d4b479-b04e-40e8-9931-fa30b7c1a58c.png" alt="Projeto Sistema Solar Header"/>
+  <img src="https://github.com/tryber/sd-018-a-project-solar-system/raw/master/public/examples/req10.png" alt="Projeto Sistema Solar Board"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</details>
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
 - [x] 11-1: _Componentes com Estado e Eventos_
 - [x] 11-2: _Formulários no React_
 - [x] 11-3: _[Projeto - Tryunfo]()_
+
+<details>
+<summary>Habilidades</summary>
+<br>
+
+  <img src="https://user-images.githubusercontent.com/74227915/158427817-c6692a54-8fb1-436d-8b2f-7a5b6ffc1f52.png" alt="Projeto Tryunfo" width="1920" height="1080"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</details>
 
 ##### Bloco 12: Ciclo de vida de componentes e React Router
 
