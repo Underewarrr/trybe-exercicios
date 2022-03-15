@@ -19,7 +19,7 @@ A organização é simples cada etapa iniciada um PR é aberto e quando finaliza
 
 
 Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pages **(O Github pages esta em desenvolvimento)**.
-- Você pode visualizar quais habilidades foram utilizadas para desenvolver o projeto a baixo
+- Você pode visualizar quais habilidades foram utilizadas para desenvolver os projetos.
 ## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
 
