@@ -170,7 +170,21 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 10-1: [_Introdução - React_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
 - [x] 10-1: [_'Hello, world!' no React!_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
 - [x] 10-2: [_Componentes React_](https://github.com/Underewarrr/trybe-exercicios/pull/34)
-- [x] 10-3: _**Projeto - Sistema Solar**_
+- [x] 10-3: _[Projeto - Sistema Solar]()_
+
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+
+ ![image](https://user-images.githubusercontent.com/74227915/160473698-6b3b26d9-165a-4f9f-9dde-9e550b55d9be.png)
+ ![image](https://user-images.githubusercontent.com/74227915/160473729-60c2cf61-8eaf-4f0a-a308-819d009da6dc.png)
+
+</details>
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
@@ -178,11 +192,48 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 11-2: _Formulários no React_
 - [x] 11-3: _[Projeto - Tryunfo]()_
 
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+
+ ![image](https://user-images.githubusercontent.com/74227915/160474607-351d971a-ab89-494c-ac4e-4b1bbe64d9ca.png)
+
+
+</details>
+
 ##### Bloco 12: Ciclo de vida de componentes e React Router
 
 - [x] 12-1: _Ciclo de vida de componentes_
 - [x] 12-2: _React Router_
 - [x] 12-3: _[Projeto - TrybeTunes]()_
+
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+
+![image](https://user-images.githubusercontent.com/74227915/160474975-4b9148c8-92c7-4ded-b32a-8ef86ffa8ab5.png)
+![image](https://user-images.githubusercontent.com/74227915/160475003-df2a263e-c603-4ab6-a56b-88fb9ba49b04.png)
+![image](https://user-images.githubusercontent.com/74227915/160475011-2bdff365-32bc-4c37-b788-b0a8d3b02312.png)
+![image](https://user-images.githubusercontent.com/74227915/160475025-830c9dfd-affe-454f-959a-9835a0df5373.png)
+![image](https://user-images.githubusercontent.com/74227915/160475040-16d8ccb5-1687-4463-8d16-0d16ac0989f4.png)
+![image](https://user-images.githubusercontent.com/74227915/160475059-a9cfff09-e259-44fc-ad79-1db1ceb5e4c6.png)
+![image](https://user-images.githubusercontent.com/74227915/160475071-314ab933-a368-4417-a02f-83cdd3e709dd.png)
+![image](https://user-images.githubusercontent.com/74227915/160475086-ed27472f-898f-4886-9e50-09e43164c74c.png)
+![image](https://user-images.githubusercontent.com/74227915/160475103-e31b3939-b108-4e18-961a-07a2da476753.png)
+
+
+
+</details>
 
 ##### Bloco 13: Metodologias Ágeis
 
@@ -211,10 +262,10 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 17: Context API e React Hooks
 
-- [ ] 17-1: _Context API do React_
-- [ ] 17-2: _React Hooks - useState e useContext_
-- [ ] 17-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 17-1: _Context API do React_
+- [x] 17-2: _React Hooks - useState e useContext_
+- [x] 17-3: _React Hooks - useEffect e Hooks customizados_
+- [x] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
 ##### Bloco 18: Projeto App de Receitas
 
