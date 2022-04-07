@@ -7,11 +7,19 @@ class App extends React.Component {
     // A função abaixo vincula "manualmente" o `this` à nossa função
     this.handleClick = this.handleClick.bind(this)
     this.handleClick2 = this.handleClick2.bind(this)
+    this.state = {
+      count : 0,
+      count2: 0
+    }
   }
 
 
   handleClick2() {
     console.log(this)
+    this.setState((PreviousState2, _props) => ({  // O `_props` é um parâmetro opcional
+      count2 : PreviousState2.count2 + 1
+    }))
+
   }
   handleClick() {
     /* Agora esse log retorna o objeto `this`, já acessível para nossa função!
@@ -19,13 +27,16 @@ class App extends React.Component {
     e tudo o mais daqui de dentro */
     console.log(this)
     console.log('Clicou!')
+    this.setState((PreviousState, _props) => ({  // O `_props` é um parâmetro opcional
+      count : PreviousState.count + 1
+    }))
   }
 
   render() {
     return ( 
       <>
-    <button onClick={this.handleClick}>Meu botão</button>
-    <button onClick={this.handleClick2}>Meu botão 2</button>
+    <button onClick={this.handleClick}>{this.state.count}</button>
+    <button onClick={this.handleClick2}>{this.state.count2}</button>
     </>
     )
   }
