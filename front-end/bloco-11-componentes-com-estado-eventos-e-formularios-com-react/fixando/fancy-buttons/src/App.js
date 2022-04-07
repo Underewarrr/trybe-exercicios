@@ -22,6 +22,13 @@ class App extends React.Component {
 
   }
   handleClick() {
+    if (this.state.count %2 === 0) {
+      console.log(this.state.count,'Verde Par')
+    }
+    else 
+    {
+      console.log(this.state.count,'Vermelho Impar')
+    }
     /* Agora esse log retorna o objeto `this`, já acessível para nossa função!
     Com isso, podemos acessar as `props`, estado do componente (ainda vamos ver como!)
     e tudo o mais daqui de dentro */
