@@ -173,19 +173,6 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 10-1: [_Introdução - React_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
 - [x] 10-1: [_'Hello, world!' no React!_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
 - [x] 10-2: [_Componentes React_](https://github.com/Underewarrr/trybe-exercicios/pull/34)
-- [x] 10-3: [Projeto Sistema Solar]()
-
-<details>
-
-<summary>Habilidades</summary>
-<br>
-
-  <img src="https://user-images.githubusercontent.com/74227915/158425493-96d4b479-b04e-40e8-9931-fa30b7c1a58c.png" alt="Projeto Sistema Solar Header"/>
-  <img src="https://github.com/tryber/sd-018-a-project-solar-system/raw/master/public/examples/req10.png" alt="Projeto Sistema Solar Board"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </details>
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
@@ -197,8 +184,6 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 <details>
 <summary>Habilidades</summary>
 <br>
-
-  <img src="https://user-images.githubusercontent.com/74227915/158427817-c6692a54-8fb1-436d-8b2f-7a5b6ffc1f52.png" alt="Projeto Tryunfo" width="1920" height="1080"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -211,10 +196,49 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 12-2: _React Router_
 - [x] 12-3: _[Projeto - TrybeTunes]()_
 
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+
+![image](https://user-images.githubusercontent.com/74227915/160474975-4b9148c8-92c7-4ded-b32a-8ef86ffa8ab5.png)
+![image](https://user-images.githubusercontent.com/74227915/160475003-df2a263e-c603-4ab6-a56b-88fb9ba49b04.png)
+![image](https://user-images.githubusercontent.com/74227915/160475011-2bdff365-32bc-4c37-b788-b0a8d3b02312.png)
+![image](https://user-images.githubusercontent.com/74227915/160475025-830c9dfd-affe-454f-959a-9835a0df5373.png)
+![image](https://user-images.githubusercontent.com/74227915/160475040-16d8ccb5-1687-4463-8d16-0d16ac0989f4.png)
+![image](https://user-images.githubusercontent.com/74227915/160475059-a9cfff09-e259-44fc-ad79-1db1ceb5e4c6.png)
+![image](https://user-images.githubusercontent.com/74227915/160475071-314ab933-a368-4417-a02f-83cdd3e709dd.png)
+![image](https://user-images.githubusercontent.com/74227915/160475086-ed27472f-898f-4886-9e50-09e43164c74c.png)
+![image](https://user-images.githubusercontent.com/74227915/160475103-e31b3939-b108-4e18-961a-07a2da476753.png)
+
+
+
+</details>
+
 ##### Bloco 13: Metodologias Ágeis
 
 - [x] 13-1: _Metodologias Ágeis_
 - [x] 13-2: _[Projeto - Frontend Online Store]()_
+
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+
+
+![image](https://user-images.githubusercontent.com/74227915/160920491-e6513179-bd9e-417e-938e-91db7881f593.png)
+
+
+
+</details>
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
@@ -222,6 +246,20 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 14-2: _RTL - Mocks e Inputs_
 - [x] 14-3: _RTL - Testando React Router_
 - [x] 14-4: _[Projeto - Testes em React]()_
+
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+
+
+
+
+
+</details>
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
@@ -232,16 +270,58 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 15-5: _Testes em React-Redux_
 - [x] 15-6: _[Projeto - Trybe Wallet]()_
 
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+
+
+![image](https://user-images.githubusercontent.com/74227915/160922051-3f6bd76f-8747-4864-b282-4f8746136356.png)
+![image](https://user-images.githubusercontent.com/74227915/160922057-57f0234b-4d5a-4181-990f-5298a1c18f15.png)
+![image](https://user-images.githubusercontent.com/74227915/160922114-8f016d0c-79a4-42c9-9cba-d7eed2aa2391.png)
+
+
+
+</details>
+
+
 ##### Bloco 16: Projeto Jogo de Trivia
 
 - [x] 16-1: _[Projeto - Jogo de Trivia]()_
 
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</details>
+
 ##### Bloco 17: Context API e React Hooks
 
-- [ ] 17-1: _Context API do React_
-- [ ] 17-2: _React Hooks - useState e useContext_
-- [ ] 17-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 17-1: _Context API do React_
+- [x] 17-2: _React Hooks - useState e useContext_
+- [x] 17-3: _React Hooks - useEffect e Hooks customizados_
+- [x] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+
+<details>
+<summary>Habilidades</summary>
+<br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+
+![req-2](https://user-images.githubusercontent.com/74227915/160923509-307115c8-d3d1-442f-b809-2df930d0a9a6.gif)
+
+</details>
 
 ##### Bloco 18: Projeto App de Receitas
 
