@@ -177,8 +177,8 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [x] 11-1: _Componentes com Estado e Eventos_
-- [x] 11-2: _Formulários no React_
+- [x] 11-1: [_Componentes com Estado e Eventos_](https://github.com/Underewarrr/trybe-exercicios/pull/35)
+- [x] 11-2: [_Formulários no React_](https://github.com/Underewarrr/trybe-exercicios/pull/36)
 - [x] 11-3: _[Projeto - Tryunfo]()_
 
 <details>
@@ -192,8 +192,8 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 12: Ciclo de vida de componentes e React Router
 
-- [x] 12-1: _Ciclo de vida de componentes_
-- [x] 12-2: _React Router_
+- [x] 12-1: [_Ciclo de vida de componentes_](https://github.com/Underewarrr/trybe-exercicios/pull/37)
+- [x] 12-2: [_React Router_](https://github.com/Underewarrr/trybe-exercicios/pull/38)
 - [x] 12-3: _[Projeto - TrybeTunes]()_
 
 <details>
@@ -242,9 +242,9 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
-- [x] 14-1: _RTL - Primeiros passos_
-- [x] 14-2: _RTL - Mocks e Inputs_
-- [x] 14-3: _RTL - Testando React Router_
+- [x] 14-1: [_RTL - Primeiros passos_](https://github.com/Underewarrr/trybe-exercicios/pull/39)
+- [x] 14-2: [_RTL - Mocks e Inputs_](https://github.com/Underewarrr/trybe-exercicios/pull/39)
+- [x] 14-3: [_RTL - Testando React Router_](https://github.com/Underewarrr/trybe-exercicios/pull/40)
 - [x] 14-4: _[Projeto - Testes em React]()_
 
 <details>
@@ -263,11 +263,11 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
-- [x] 15-1: _Introdução ao Redux - O estado global da aplicação_
-- [x] 15-2: _Usando o Redux no React_
-- [x] 15-3: _Usando o Redux no React - Prática_
-- [x] 15-4: _Usando o Redux no React - Actions Assíncronas_
-- [x] 15-5: _Testes em React-Redux_
+- [x] 15-1: [(https://github.com/Underewarrr/trybe-exercicios/pull/33)_Introdução ao Redux - O estado global da aplicação_](https://github.com/Underewarrr/trybe-exercicios/pull/42)
+- [x] 15-2: [_Usando o Redux no React_](https://github.com/Underewarrr/trybe-exercicios/pull/43)
+- [x] 15-3: [_Usando o Redux no React - Prática_](https://github.com/Underewarrr/trybe-exercicios/pull/45)
+- [x] 15-4: [_Usando o Redux no React - Actions Assíncronas_](https://github.com/Underewarrr/trybe-exercicios/pull/45)
+- [x] 15-5: [_Testes em React-Redux_](https://github.com/Underewarrr/trybe-exercicios/pull/45)
 - [x] 15-6: _[Projeto - Trybe Wallet]()_
 
 <details>
@@ -305,7 +305,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 17: Context API e React Hooks
 
-- [x] 17-1: _Context API do React_
+- [x] 17-1: [_Context API do React_](https://github.com/Underewarrr/trybe-exercicios/pull/48)
 - [x] 17-2: _React Hooks - useState e useContext_
 - [x] 17-3: _React Hooks - useEffect e Hooks customizados_
 - [x] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
@@ -325,7 +325,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 18: Projeto App de Receitas
 
-- [ ] 18-1: _[Projeto - App de Receitas]()_
+- [x] 18-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
