@@ -10,7 +10,6 @@
     <h4>Encerradno o terminal do container</h4>
 <p>➡️ docker stop -t 0 meu-container</p>
 <p>➡️ Adding the flags -t and -i will allow Ctrl-c to work as suggested: [(source)] (https://github.com/moby/moby/issues/2838#issuecomment-29205965 1.1k)</p>
-<p>➡️ docker run -t -i -p debian:stable-slim</p>
 
    
 
