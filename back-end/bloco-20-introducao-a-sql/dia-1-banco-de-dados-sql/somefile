@@ -1,0 +1,5 @@
+CREATE TABLE `tipos_dados`.`new_table` (
+  `campo_1` INT NOT NULL,
+  `campo_2` INT NULL,
+  `campo_3` INT NULL,
+  PRIMARY KEY (`campo_1`));
