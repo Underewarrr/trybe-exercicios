@@ -10,20 +10,19 @@
 });
 
 async function getMovie(title) {
-      const apikey = 'f63f1ecf'
+    const apikey = 'f63f1ecf'
      try {
         const response = await axios.get(`http://www.omdbapi.com/?apikey=${apikey}&t=${title}`)
         // http://www.omdbapi.com/?apikey=[yourkey]&t=[movie title]
-      return response.data
+        return response.data
     }
-      catch (
-          error) {
-          console.log(error)
-          }
-       } {
-        return {
-          title: "Movie not found"
-        }
+    catch (error) 
+      {
+        console.log(error)}
+    } {
+    return {
+        title: "Movie not found"
+    }
   
   }
   
