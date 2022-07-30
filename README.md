@@ -20,8 +20,9 @@ A organização é simples cada etapa iniciada um PR é aberto e quando finaliza
 
 Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pages **(O Github pages esta em desenvolvimento)**.
 - Você pode visualizar quais habilidades foram utilizadas para desenvolver os projetos.
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
 
+<details>
+<summary><h3>Fundamentos do Desenvolvimento Web (Completo)</h3></summary>
 
 ##### [Bloco 1: Introdução - Unix & Bash]
 
@@ -50,7 +51,6 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<br><br>
 </details>
 
 ##### [Bloco 4: Introdução à JavaScript e Lógica de Programação]
@@ -164,8 +164,10 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
 </details>
+</details>
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+<details>
+<summary><h3>Desenvolvimento Front-end :hourglass_flowing_sand: (Completo)</h3></summary>
 
 ##### Bloco 10: Introdução à React
 
@@ -173,7 +175,6 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 10-1: [_Introdução - React_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
 - [x] 10-1: [_'Hello, world!' no React!_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
 - [x] 10-2: [_Componentes React_](https://github.com/Underewarrr/trybe-exercicios/pull/34)
-</details>
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
@@ -214,9 +215,6 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 ![image](https://user-images.githubusercontent.com/74227915/160475071-314ab933-a368-4417-a02f-83cdd3e709dd.png)
 ![image](https://user-images.githubusercontent.com/74227915/160475086-ed27472f-898f-4886-9e50-09e43164c74c.png)
 ![image](https://user-images.githubusercontent.com/74227915/160475103-e31b3939-b108-4e18-961a-07a2da476753.png)
-
-
-
 </details>
 
 ##### Bloco 13: Metodologias Ágeis
@@ -232,12 +230,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-
-
 ![image](https://user-images.githubusercontent.com/74227915/160920491-e6513179-bd9e-417e-938e-91db7881f593.png)
-
-
-
 </details>
 
 ##### Bloco 14: Testes automatizados com React Testing Library
@@ -254,11 +247,6 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-
-
-
-
-
 </details>
 
 ##### Bloco 15: Gerenciamento de estado com Redux
@@ -279,13 +267,9 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 
-
 ![image](https://user-images.githubusercontent.com/74227915/160922051-3f6bd76f-8747-4864-b282-4f8746136356.png)
 ![image](https://user-images.githubusercontent.com/74227915/160922057-57f0234b-4d5a-4181-990f-5298a1c18f15.png)
 ![image](https://user-images.githubusercontent.com/74227915/160922114-8f016d0c-79a4-42c9-9cba-d7eed2aa2391.png)
-
-
-
 </details>
 
 
@@ -306,9 +290,9 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 ##### Bloco 17: Context API e React Hooks
 
 - [x] 17-1: [_Context API do React_](https://github.com/Underewarrr/trybe-exercicios/pull/48)
-- [x] 17-2: _React Hooks - useState e useContext_
-- [x] 17-3: _React Hooks - useEffect e Hooks customizados_
-- [x] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 17-2: _React Hooks - [useState e useContext_](https://github.com/Underewarrr/trybe-exercicios/pull/48)
+- [x] 17-3: _React Hooks - [useEffect e Hooks customizados_](https://github.com/Underewarrr/trybe-exercicios/pull/48)
+- [x] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/Underewarrr/trybe-exercicios/pull/48)
 
 <details>
 <summary>Habilidades</summary>
@@ -326,149 +310,34 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 ##### Bloco 18: Projeto App de Receitas
 
 - [x] 18-1: _[Projeto - App de Receitas]()_
+</details>
 
+<details>
+<summary><h3>Desenvolvimento Back-end :hourglass_flowing_sand: (Em andamento)</h3></summary>
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 19: Introdução à SQL
 
-- [ ] 19-1: _Introdução - Back-end_
-- [ ] 19-1: _Introdução - Bancos de dados relacionais_
-- [ ] 19-1: _Banco de dados SQL_
-- [ ] 19-2: _Encontrando dados em um banco de dados_
-- [ ] 19-3: _Filtrando dados de forma especí­fica_
-- [ ] 19-4: _Manipulando tabelas_
-- [ ] 19-5: _[Projeto - All For One]()_
+- [x] 19-1: _Introdução - Back-end_(https://github.com/Underewarrr/trybe-exercicios/pull/49)
+- [x] 19-1: _Introdução - Bancos de dados relacionais_(https://github.com/Underewarrr/trybe-exercicios/pull/50)
+- [x] 19-1: _Banco de dados SQL_(https://github.com/Underewarrr/trybe-exercicios/pull/53)
+- [x] 19-2: _Encontrando dados em um banco de dados_(https://github.com/Underewarrr/trybe-exercicios/pull/54)
+- [x] 19-3: _Filtrando dados de forma especí­fica_(https://github.com/Underewarrr/trybe-exercicios/pull/55)
+- [x] 19-4: _Manipulando tabelas_(https://github.com/Underewarrr/trybe-exercicios/pull/56)
+- [x] 19-5: _[Projeto - All For One]()_
 
 ##### Bloco 20: Funções SQL, Joins e Subqueries
 
-- [ ] 20-1: _Funções mais usadas no SQL_
-- [ ] 20-2: _Descomplicando JOINs, UNIONs e Subqueries_
-- [ ] 20-3: _Stored Routines & Stored Functions_
-- [ ] 20-4: _[Projeto - Vocabulary Booster]()_
+- [ ] 20-1: _Funções mais usadas no SQL_(https://github.com/Underewarrr/trybe-exercicios/pull/57)
+- [ ] 20-2: _Descomplicando JOINs, UNIONs e Subqueries_(https://github.com/Underewarrr/trybe-exercicios/pull/58)
 
 ##### Bloco 21: Normalização e Modelagem de banco de dados
 
-- [ ] 21-1: _Transformando ideias em um modelo de banco de dados - Parte 1_
-- [ ] 21-2: _Normalização, Formas Normais e Dumps_
-- [ ] 21-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 21-3: _[Projeto - One For All]()_
-
-##### Bloco 22: Introdução à MongoDB
-
-- [ ] 22-1: _Introdução - NoSQL_
-- [ ] 22-1: _Introdução - MongoDB_
-- [ ] 22-2: _Filter Operators_
-- [ ] 22-3: _[Projeto - Data Flights]()_
-
-##### Bloco 23: MongoDB: Updates Simples e Complexos
-
-- [ ] 23-1: _Updates Simples_
-- [ ] 23-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 23-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 23-4: _[Projeto - Commerce]()_
-
-##### Bloco 24: MongoDB: Aggregation Framework
-
-- [ ] 24-1: _Aggregation Framework - Part 1_
-- [ ] 24-2: _Aggregation Framework - Part 2_
-- [ ] 24-3: _[Projeto - Aggregations]()_
-
-##### Bloco 25: Introdução ao Desenvolvimento Web com NodeJS
-
-- [ ] 25-1: _Introdução NodeJs_
-- [ ] 25-2: _Fluxo Assíncrono - NodeJS_
-- [ ] 25-3: _Testes com NodeJS_
-- [ ] 25-4: _Express: HTTP com NodeJS_
-- [ ] 25-5: _Express: Middlewares_
-- [ ] 25-6: _[Projeto - Talker Manager]()_
-
-##### Bloco 26: NodeJS: Camada de serviço e arquitetura Rest e Restful
-
-- [ ] 26-1: _Arquitetura de Software_
-- [ ] 26-1: _Arquitetura de Software - Camada de Model_
-- [ ] 26-2: _Arquitetura de Software - Camada de Controller e Service_
-- [ ] 26-3: _Arquitetura Web - Rest e Restful_
-- [ ] 26-4: _Arquitetura de Software - Testando Camadas_
-- [ ] 26-5: _[Projeto - Store Manager]()_
-
-##### Bloco 27: Autenticação e Upload de arquivos
-
-- [ ] 27-1: _NodeJS - JWT (JSON Web Token)_
-- [ ] 27-2: _NodeJS - Upload de arquivos com `multer`_
-- [ ] 27-3: _NodeJS - Testando APIs com testes de integração_
-- [ ] 27-4: _[Projeto - Cookmaster]()_
-
-##### Bloco 28: Deployment
-
-- [ ] 28-1: _Introdução - Deploy_
-- [ ] 28-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 28-2: _Deploy - Gerenciadores de processos_
-- [ ] 28-3: _[Projeto - Stranger Things]()_
-
-##### Bloco 29: Arquitetura: SOLID e ORM
-
-- [ ] 29-1: _Arquitetura - Princípios SOLID_
-- [ ] 29-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 29-3: _ORM - Associations_
-- [ ] 29-4: _[Projeto - API de Blogs]()_
-
-##### Bloco 30: Sockets
-
-- [ ] 30-1: _Arquitetura de Software - Camada de View_
-- [ ] 30-2: _Sockets - TCP/UDP & NET_
-- [ ] 30-3: _Sockets - Socket.io_
-- [ ] 30-4: _Sockets - Praticando Socket.io_
-- [ ] 30-5: _[Projeto - Webchat]()_
-
-##### Bloco 31: Projeto - App de Delivery
-
-- [ ] 31-1: _[Projeto - App de Delivery]()_
-
-## Ciência da Computação :hourglass_flowing_sand:
-
-##### Bloco 32: Introdução à Python
-
-- [ ] 32-1: _Introdução - Ciência da Computação_
-- [ ] 32-1: _Aprendendo Python_
-- [ ] 32-2: _Entrada e saída de dados_
-- [ ] 32-3: _Testes_
-- [ ] 32-4: _[Projeto - Job Insights]()_
-
-##### Bloco 33: Programação orientada à objetos e padrões de projeto
-
-- [ ] 33-1: _Introdução à programação orientada a objetos_
-- [ ] 33-2: _Herança, Composição e Interfaces_
-- [ ] 33-3: _Padrões de projeto_
-- [ ] 33-4: _[Projeto - Relatórios de Estoque]()_
-
-##### Bloco 34: Redes e Raspagem de Dados
-
-- [ ] 34-1: _Arquitetura de redes_
-- [ ] 34-2: _Redes de computadores, ferramentas e segurança_
-- [ ] 34-3: _Raspagem de Dados_
-- [ ] 34-4: _[Projeto - Tech News]()_
-
-##### Bloco 35: Algoritmos
-
-- [ ] 35-1: _Complexidade de Algoritmos_
-- [ ] 35-2: _Recursividade e estratégias para solução de problemas_
-- [ ] 35-3: _Algoritmos de ordenação e busca_
-- [ ] 35-4: _[Projeto - Algoritmos]()_
-
-##### Bloco 36: Estrutura de Dados I: Arrays, Hashmaps e Sets
-
-- [ ] 36-1: _Arquitetura de Computadores_
-- [ ] 36-2: _Arrays_
-- [ ] 36-3: _Hashmaps e Dict_
-- [ ] 36-4: _Set_
-- [ ] 36-5: _[Projeto - Restaurant Orders]()_
-
-##### Bloco 37: Estrutura de Dados II: Listas, Filas e Pilhas
-
-- [ ] 37-1: _Nó e Listas Encadeadas_
-- [ ] 37-2: _Deque_
-- [ ] 37-3: _Pilhas_
-- [ ] 37-4: _[Projeto - TING (Trybe Is Not Google)]()_
+- [x] 21-1: _Transformando ideias em um modelo de banco de dados - Parte 1_(https://github.com/Underewarrr/trybe-exercicios/pull/58)
+- [x] 21-2: _Normalização, Formas Normais e Dumps_(https://github.com/Underewarrr/trybe-exercicios/pull/58)
+- [x] 21-2: _Transformando ideias em um modelo de banco de dados - Parte 2_(https://github.com/Underewarrr/trybe-exercicios/pull/58)
+- [x] 21-3: _[Projeto - One For All]()_
+</details>
 
 # [TRYBE](https://www.betrybe.com/)!
 <img src="https://go.betrybe.com/hubfs/logo%20cortada%20branca.png" width="250">
