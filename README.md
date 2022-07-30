@@ -26,24 +26,24 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### [Bloco 1: Introdução - Unix & Bash]
 
-- [X] 1-3: [_Fundamentos do Desenvolvimento Web_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
-- [X] 1-3: [_Introdução - Unix & Shell_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
-- [X] 1-3: [_Unix & Bash - Part 1_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
-- [X] 1-4: [_Unix & Bash - Part 2_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
+- [X] 1-3: _Fundamentos do Desenvolvimento Web_(https://github.com/Underewarrr/trybe-exercicios/pull/1)
+- [X] 1-3: _Introdução - Unix & Shell_(https://github.com/Underewarrr/trybe-exercicios/pull/1)
+- [X] 1-3: _Unix & Bash - Part 1_(https://github.com/Underewarrr/trybe-exercicios/pull/1)
+- [X] 1-4: _Unix & Bash - Part 2_(https://github.com/Underewarrr/trybe-exercicios/pull/1)
 
 ##### [Bloco 2: Git, GitHub e Internet]
 
-- [X] 2-1: [_Git & GitHub - O que é e para que serve?_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
-- [X] 2-2: [_Git & GitHub - Entendendo os comandos_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
-- [X] 2-3: [_Internet - Entendendo como ela funciona_](https://github.com/Underewarrr/trybe-exercicios/pull/1)
+- [X] 2-1: _Git & GitHub - O que é e para que serve?_(https://github.com/Underewarrr/trybe-exercicios/pull/1)
+- [X] 2-2: _Git & GitHub - Entendendo os comandos_(https://github.com/Underewarrr/trybe-exercicios/pull/1)
+- [X] 2-3: _Internet - Entendendo como ela funciona_(https://github.com/Underewarrr/trybe-exercicios/pull/1)
 
 ##### [Bloco 3: Introdução à HTML & CSS]
 
-- [X] 3-1: [_Introdução - HTML & CSS_](https://github.com/Underewarrr/trybe-exercicios/pull/2)
-- [X] 3-1: [_HTML & CSS - Estruturas de página_](https://github.com/Underewarrr/trybe-exercicios/pull/2)
-- [X] 3-2: [_HTML & CSS - Primeiros passos em CSS_](https://github.com/Underewarrr/trybe-exercicios/pull/2)
-- [X] 3-3: [_HTML & CSS - Seletores e posicionamento_](https://github.com/Underewarrr/trybe-exercicios/pull/2)
-- [X] 3-4: [_HTML Semântico_](https://github.com/Underewarrr/trybe-exercicios/pull/2)
+- [X] 3-1: _Introdução - HTML & CSS_(https://github.com/Underewarrr/trybe-exercicios/pull/2)
+- [X] 3-1: _HTML & CSS - Estruturas de página_(https://github.com/Underewarrr/trybe-exercicios/pull/2)
+- [X] 3-2: _HTML & CSS - Primeiros passos em CSS_(https://github.com/Underewarrr/trybe-exercicios/pull/2)
+- [X] 3-3: _HTML & CSS - Seletores e posicionamento_(https://github.com/Underewarrr/trybe-exercicios/pull/2)
+- [X] 3-4: _HTML Semântico_(https://github.com/Underewarrr/trybe-exercicios/pull/2)
 - [X] 3-5: _**Projeto - Lessons Learned**_
 - 
 <details>
@@ -55,12 +55,12 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### [Bloco 4: Introdução à JavaScript e Lógica de Programação]
 
-- [X] 4-1: [_Introdução - JavaScript_](https://github.com/Underewarrr/trybe-exercicios/pull/3)
-- [X] 4-1: [_JavaScript - Primeiros passos_](https://github.com/Underewarrr/trybe-exercicios/pull/4)
-- [X] 4-2: [_JavaScript - Array e loop For_](https://github.com/Underewarrr/trybe-exercicios/pull/5)
-- [X] 4-3: [_JavaScript - Lógica de Programação e Algoritmos_](https://github.com/Underewarrr/trybe-exercicios/pull/6)
-- [X] 4-4: [_JavaScript - Objetos e Funções_](https://github.com/Underewarrr/trybe-exercicios/pull/8)
-- [X] 4-5: [Projeto - Playground Functions_]()
+- [X] 4-1: _Introdução - JavaScript_(https://github.com/Underewarrr/trybe-exercicios/pull/3)
+- [X] 4-1: _JavaScript - Primeiros passos_(https://github.com/Underewarrr/trybe-exercicios/pull/4)
+- [X] 4-2: _JavaScript - Array e loop For_(https://github.com/Underewarrr/trybe-exercicios/pull/5)
+- [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_(https://github.com/Underewarrr/trybe-exercicios/pull/6)
+- [X] 4-4: _JavaScript - Objetos e Funções_(https://github.com/Underewarrr/trybe-exercicios/pull/8)
+- [X] 4-5: [Projeto - Playground Functions_()
 
 <details>
 <summary>Habilidades</summary>
@@ -72,10 +72,10 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### [Bloco 5: JavaScrip: DOM, Eventos e Web Storage]
 
-- [x] 5-1: [_JavaScript - DOM e seletores_](https://github.com/Underewarrr/trybe-exercicios/pull/14)
-- [x] 5-2: [_JavaScript - Trabalhando com elementos_](https://github.com/Underewarrr/trybe-exercicios/pull/15)
-- [x] 5-3: [_JavaScript - Eventos_](https://github.com/Underewarrr/trybe-exercicios/pull/16)
-- [x] 5-4: [_JavaScript - Web Storage_](https://github.com/Underewarrr/trybe-exercicios/pull/16)
+- [x] 5-1: _JavaScript - DOM e seletores_(https://github.com/Underewarrr/trybe-exercicios/pull/14)
+- [x] 5-2: _JavaScript - Trabalhando com elementos_(https://github.com/Underewarrr/trybe-exercicios/pull/15)
+- [x] 5-3: _JavaScript - Eventos_(https://github.com/Underewarrr/trybe-exercicios/pull/16)
+- [x] 5-4: _JavaScript - Web Storage_(https://github.com/Underewarrr/trybe-exercicios/pull/16)
 - [x] 5-5: [Projeto - Pixels Art]()
 - [x] 5-6: _**Projeto - Lista de Tarefas**_
 - [ ] 5-7: _**Projeto Bônus - Meme Generator**_
@@ -96,11 +96,11 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### [Bloco 6: HTML & CSS: Forms, Flexbox e Responsivo]
 
-- [x] 6-1: [_HTML & CSS - Forms_](https://github.com/Underewarrr/trybe-exercicios/pull/17)
-- [x] 6-2: [_Bibliotecas JavaScript e Frameworks CSS_](https://github.com/Underewarrr/trybe-exercicios/pull/17)
-- [x] 6-3: [_CSS Flexbox - Part 1_](https://github.com/Underewarrr/trybe-exercicios/pull/18)
-- [x] 6-4: [_CSS Flexbox - Part 2_](https://github.com/Underewarrr/trybe-exercicios/pull/18)
-- [x] 6-5: [_CSS Responsivo - Mobile First_](https://github.com/Underewarrr/trybe-exercicios/pull/18)
+- [x] 6-1: _HTML & CSS - Forms_(https://github.com/Underewarrr/trybe-exercicios/pull/17)
+- [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_(https://github.com/Underewarrr/trybe-exercicios/pull/17)
+- [x] 6-3: _CSS Flexbox - Part 1_(https://github.com/Underewarrr/trybe-exercicios/pull/18)
+- [x] 6-4: _CSS Flexbox - Part 2_(https://github.com/Underewarrr/trybe-exercicios/pull/18)
+- [x] 6-5: _CSS Responsivo - Mobile First_(https://github.com/Underewarrr/trybe-exercicios/pull/18)
 - [x] 6-6: [Projeto - Trybewarts]()
 
 <details>
@@ -115,10 +115,10 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 7: Introdução à JavaScript ES6 & Testes Unitários
 
-- [x] 7-1: [_JavaScript ES6 - let, const, arrow functions e template literals_](https://github.com/Underewarrr/trybe-exercicios/pull/19)
-- [x] 7-2: [_JavaScript ES6 - Objects_](https://github.com/Underewarrr/trybe-exercicios/pull/22)
-- [x] 7-3: [_Primeiros passos em Jest_](https://github.com/Underewarrr/trybe-exercicios/pull/23)
-- [x] 7-3: [_Primeiros passos em Jest_](https://github.com/Underewarrr/trybe-exercicios/pull/24)
+- [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_(https://github.com/Underewarrr/trybe-exercicios/pull/19)
+- [x] 7-2: _JavaScript ES6 - Objects_(https://github.com/Underewarrr/trybe-exercicios/pull/22)
+- [x] 7-3: _Primeiros passos em Jest_(https://github.com/Underewarrr/trybe-exercicios/pull/23)
+- [x] 7-3: _Primeiros passos em Jest_(https://github.com/Underewarrr/trybe-exercicios/pull/24)
 - [x] 7-4: [Projeto - JavaScript Testes Unitários]()
 
 <details>
@@ -132,11 +132,11 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
 
-- [x] 8-1: [_JavaScript ES6 - Introdução à Higher Order Functions_](https://github.com/Underewarrr/trybe-exercicios/pull/26)
-- [x] 8-2: [_JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_](https://github.com/Underewarrr/trybe-exercicios/pull/27)
-- [x] 8-3: [_JavaScript ES6 - Higher Order Functions - map e filter_](https://github.com/Underewarrr/trybe-exercicios/pull/28)
-- [x] 8-4: [_JavaScript ES6 - Higher Order Functions - reduce_](https://github.com/Underewarrr/trybe-exercicios/pull/29)
-- [x] 8-5: [_JavaScript ES6 - spread operator, rest parameter, destructuring e mais_](https://github.com/Underewarrr/trybe-exercicios/pull/30)
+- [x] 8-1: _JavaScript ES6 - Introdução à Higher Order Functions_(https://github.com/Underewarrr/trybe-exercicios/pull/26)
+- [x] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_(https://github.com/Underewarrr/trybe-exercicios/pull/27)
+- [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_(https://github.com/Underewarrr/trybe-exercicios/pull/28)
+- [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_(https://github.com/Underewarrr/trybe-exercicios/pull/29)
+- [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_](https://github.com/Underewarrr/trybe-exercicios/pull/30)
 - [x] 8-6: [Projeto - Zoo functions]()
 
 <details>
@@ -150,9 +150,9 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 9: JavaScript e Testes Assíncronos
 
-- [x] 9-1: [_JavaScript Assíncrono e Callbacks_](https://github.com/Underewarrr/trybe-exercicios/pull/31)
-- [x] 9-2: [_JavaScript Assí­ncrono - Fetch API e async/await_](https://github.com/Underewarrr/trybe-exercicios/pull/31)
-- [x] 9-3: [_Jest - Testes Assíncronos_](https://github.com/Underewarrr/trybe-exercicios/pull/32)
+- [x] 9-1: _JavaScript Assíncrono e Callbacks_(https://github.com/Underewarrr/trybe-exercicios/pull/31)
+- [x] 9-2: _JavaScript Assí­ncrono - Fetch API e async/await_(https://github.com/Underewarrr/trybe-exercicios/pull/31)
+- [x] 9-3: _Jest - Testes Assíncronos_(https://github.com/Underewarrr/trybe-exercicios/pull/32)
 - [x] 9-4: [Projeto - Carrinho de Compras]()
 
 <details>
@@ -171,15 +171,15 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 10: Introdução à React
 
-- [x] 10-1: [_Introdução - Front-end_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
-- [x] 10-1: [_Introdução - React_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
-- [x] 10-1: [_'Hello, world!' no React!_](https://github.com/Underewarrr/trybe-exercicios/pull/33)
-- [x] 10-2: [_Componentes React_](https://github.com/Underewarrr/trybe-exercicios/pull/34)
+- [x] 10-1: _Introdução - Front-end_(https://github.com/Underewarrr/trybe-exercicios/pull/33)
+- [x] 10-1: _Introdução - React_(https://github.com/Underewarrr/trybe-exercicios/pull/33)
+- [x] 10-1: _'Hello, world!' no React!_(https://github.com/Underewarrr/trybe-exercicios/pull/33)
+- [x] 10-2: _Componentes React_(https://github.com/Underewarrr/trybe-exercicios/pull/34)
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
-- [x] 11-1: [_Componentes com Estado e Eventos_](https://github.com/Underewarrr/trybe-exercicios/pull/35)
-- [x] 11-2: [_Formulários no React_](https://github.com/Underewarrr/trybe-exercicios/pull/36)
+- [x] 11-1: _Componentes com Estado e Eventos_(https://github.com/Underewarrr/trybe-exercicios/pull/35)
+- [x] 11-2: _Formulários no React_(https://github.com/Underewarrr/trybe-exercicios/pull/36)
 - [x] 11-3: _[Projeto - Tryunfo]()_
 
 <details>
@@ -193,8 +193,8 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 12: Ciclo de vida de componentes e React Router
 
-- [x] 12-1: [_Ciclo de vida de componentes_](https://github.com/Underewarrr/trybe-exercicios/pull/37)
-- [x] 12-2: [_React Router_](https://github.com/Underewarrr/trybe-exercicios/pull/38)
+- [x] 12-1: _Ciclo de vida de componentes_(https://github.com/Underewarrr/trybe-exercicios/pull/37)
+- [x] 12-2: _React Router_(https://github.com/Underewarrr/trybe-exercicios/pull/38)
 - [x] 12-3: _[Projeto - TrybeTunes]()_
 
 <details>
@@ -235,9 +235,9 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
-- [x] 14-1: [_RTL - Primeiros passos_](https://github.com/Underewarrr/trybe-exercicios/pull/39)
-- [x] 14-2: [_RTL - Mocks e Inputs_](https://github.com/Underewarrr/trybe-exercicios/pull/39)
-- [x] 14-3: [_RTL - Testando React Router_](https://github.com/Underewarrr/trybe-exercicios/pull/40)
+- [x] 14-1: _RTL - Primeiros passos_(https://github.com/Underewarrr/trybe-exercicios/pull/39)
+- [x] 14-2: _RTL - Mocks e Inputs_(https://github.com/Underewarrr/trybe-exercicios/pull/39)
+- [x] 14-3: _RTL - Testando React Router_(https://github.com/Underewarrr/trybe-exercicios/pull/40)
 - [x] 14-4: _[Projeto - Testes em React]()_
 
 <details>
@@ -251,11 +251,11 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
-- [x] 15-1: [(https://github.com/Underewarrr/trybe-exercicios/pull/33)_Introdução ao Redux - O estado global da aplicação_](https://github.com/Underewarrr/trybe-exercicios/pull/42)
-- [x] 15-2: [_Usando o Redux no React_](https://github.com/Underewarrr/trybe-exercicios/pull/43)
-- [x] 15-3: [_Usando o Redux no React - Prática_](https://github.com/Underewarrr/trybe-exercicios/pull/45)
-- [x] 15-4: [_Usando o Redux no React - Actions Assíncronas_](https://github.com/Underewarrr/trybe-exercicios/pull/45)
-- [x] 15-5: [_Testes em React-Redux_](https://github.com/Underewarrr/trybe-exercicios/pull/45)
+- [x] 15-1: _Introdução ao Redux - O estado global da aplicação_](https://github.com/Underewarrr/trybe-exercicios/pull/42)
+- [x] 15-2: _Usando o Redux no React_(https://github.com/Underewarrr/trybe-exercicios/pull/43)
+- [x] 15-3: _Usando o Redux no React_Prática__(https://github.com/Underewarrr/trybe-exercicios/pull/45)
+- [x] 15-4: _Usando o Redux no React_Actions Assíncronas_(https://github.com/Underewarrr/trybe-exercicios/pull/45)
+- [x] 15-5: _Testes em React-Redux_(https://github.com/Underewarrr/trybe-exercicios/pull/45)
 - [x] 15-6: _[Projeto - Trybe Wallet]()_
 
 <details>
@@ -289,10 +289,10 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 17: Context API e React Hooks
 
-- [x] 17-1: [_Context API do React_](https://github.com/Underewarrr/trybe-exercicios/pull/48)
-- [x] 17-2: _React Hooks - [useState e useContext_](https://github.com/Underewarrr/trybe-exercicios/pull/48)
-- [x] 17-3: _React Hooks - [useEffect e Hooks customizados_](https://github.com/Underewarrr/trybe-exercicios/pull/48)
-- [x] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks](https://github.com/Underewarrr/trybe-exercicios/pull/48)
+- [x] 17-1: _Context API do React_(https://github.com/Underewarrr/trybe-exercicios/pull/48)
+- [x] 17-2: _React Hooks - useState e useContext_(https://github.com/Underewarrr/trybe-exercicios/pull/48)
+- [x] 17-3: _React Hooks - useEffect e Hooks customizados_(https://github.com/Underewarrr/trybe-exercicios/pull/48)
+- [x] 17-4: _Projeto - StarWars Datatable com Context API e Hooks(https://github.com/Underewarrr/trybe-exercicios/pull/48)
 
 <details>
 <summary>Habilidades</summary>
@@ -328,8 +328,8 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 20: Funções SQL, Joins e Subqueries
 
-- [ ] 20-1: _Funções mais usadas no SQL_(https://github.com/Underewarrr/trybe-exercicios/pull/57)
-- [ ] 20-2: _Descomplicando JOINs, UNIONs e Subqueries_(https://github.com/Underewarrr/trybe-exercicios/pull/58)
+- [x] 20-1: _Funções mais usadas no SQL_(https://github.com/Underewarrr/trybe-exercicios/pull/57)
+- [x] 20-2: _Descomplicando JOINs, UNIONs e Subqueries_(https://github.com/Underewarrr/trybe-exercicios/pull/58)
 
 ##### Bloco 21: Normalização e Modelagem de banco de dados
 
