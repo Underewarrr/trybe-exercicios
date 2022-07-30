@@ -60,7 +60,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [X] 4-2: _JavaScript - Array e loop For_(https://github.com/Underewarrr/trybe-exercicios/pull/5)
 - [X] 4-3: _JavaScript - Lógica de Programação e Algoritmos_(https://github.com/Underewarrr/trybe-exercicios/pull/6)
 - [X] 4-4: _JavaScript - Objetos e Funções_(https://github.com/Underewarrr/trybe-exercicios/pull/8)
-- [X] 4-5: [Projeto - Playground Functions_()
+- [X] 4-5: Projeto - Playground Functions_
 
 <details>
 <summary>Habilidades</summary>
@@ -101,7 +101,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 6-3: _CSS Flexbox - Part 1_(https://github.com/Underewarrr/trybe-exercicios/pull/18)
 - [x] 6-4: _CSS Flexbox - Part 2_(https://github.com/Underewarrr/trybe-exercicios/pull/18)
 - [x] 6-5: _CSS Responsivo - Mobile First_(https://github.com/Underewarrr/trybe-exercicios/pull/18)
-- [x] 6-6: [Projeto - Trybewarts]()
+- [x] 6-6: Projeto - Trybewarts
 
 <details>
 <summary>Habilidades</summary>
@@ -119,7 +119,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 7-2: _JavaScript ES6 - Objects_(https://github.com/Underewarrr/trybe-exercicios/pull/22)
 - [x] 7-3: _Primeiros passos em Jest_(https://github.com/Underewarrr/trybe-exercicios/pull/23)
 - [x] 7-3: _Primeiros passos em Jest_(https://github.com/Underewarrr/trybe-exercicios/pull/24)
-- [x] 7-4: [Projeto - JavaScript Testes Unitários]()
+- [x] 7-4: Projeto - JavaScript Testes Unitários
 
 <details>
 <summary>Habilidades</summary>
@@ -137,7 +137,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_(https://github.com/Underewarrr/trybe-exercicios/pull/28)
 - [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_(https://github.com/Underewarrr/trybe-exercicios/pull/29)
 - [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_](https://github.com/Underewarrr/trybe-exercicios/pull/30)
-- [x] 8-6: [Projeto - Zoo functions]()
+- [x] 8-6: Projeto - Zoo functions
 
 <details>
 <summary>Habilidades</summary>
@@ -153,7 +153,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_(https://github.com/Underewarrr/trybe-exercicios/pull/31)
 - [x] 9-2: _JavaScript Assí­ncrono - Fetch API e async/await_(https://github.com/Underewarrr/trybe-exercicios/pull/31)
 - [x] 9-3: _Jest - Testes Assíncronos_(https://github.com/Underewarrr/trybe-exercicios/pull/32)
-- [x] 9-4: [Projeto - Carrinho de Compras]()
+- [x] 9-4: Projeto - Carrinho de Compras
 
 <details>
 <summary>Habilidades</summary>
@@ -180,7 +180,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 - [x] 11-1: _Componentes com Estado e Eventos_(https://github.com/Underewarrr/trybe-exercicios/pull/35)
 - [x] 11-2: _Formulários no React_(https://github.com/Underewarrr/trybe-exercicios/pull/36)
-- [x] 11-3: _[Projeto - Tryunfo]()_
+- [x] 11-3: Projeto - Tryunfo
 
 <details>
 <summary>Habilidades</summary>
@@ -195,7 +195,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 - [x] 12-1: _Ciclo de vida de componentes_(https://github.com/Underewarrr/trybe-exercicios/pull/37)
 - [x] 12-2: _React Router_(https://github.com/Underewarrr/trybe-exercicios/pull/38)
-- [x] 12-3: _[Projeto - TrybeTunes]()_
+- [x] 12-3: Projeto - TrybeTunes
 
 <details>
 <summary>Habilidades</summary>
@@ -220,7 +220,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 ##### Bloco 13: Metodologias Ágeis
 
 - [x] 13-1: _Metodologias Ágeis_
-- [x] 13-2: _[Projeto - Frontend Online Store]()_
+- [x] 13-2: Projeto - Frontend Online Store
 
 <details>
 <summary>Habilidades</summary>
@@ -238,7 +238,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 14-1: _RTL - Primeiros passos_(https://github.com/Underewarrr/trybe-exercicios/pull/39)
 - [x] 14-2: _RTL - Mocks e Inputs_(https://github.com/Underewarrr/trybe-exercicios/pull/39)
 - [x] 14-3: _RTL - Testando React Router_(https://github.com/Underewarrr/trybe-exercicios/pull/40)
-- [x] 14-4: _[Projeto - Testes em React]()_
+- [x] 14-4: _Projeto - Testes em React
 
 <details>
 <summary>Habilidades</summary>
@@ -256,7 +256,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 15-3: _Usando o Redux no React_Prática__(https://github.com/Underewarrr/trybe-exercicios/pull/45)
 - [x] 15-4: _Usando o Redux no React_Actions Assíncronas_(https://github.com/Underewarrr/trybe-exercicios/pull/45)
 - [x] 15-5: _Testes em React-Redux_(https://github.com/Underewarrr/trybe-exercicios/pull/45)
-- [x] 15-6: _[Projeto - Trybe Wallet]()_
+- [x] 15-6: _Projeto - Trybe Wallet
 
 <details>
 <summary>Habilidades</summary>
@@ -275,7 +275,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 16: Projeto Jogo de Trivia
 
-- [x] 16-1: _[Projeto - Jogo de Trivia]()_
+- [x] 16-1: _Projeto - Jogo de Trivia
 
 <details>
 <summary>Habilidades</summary>
@@ -309,7 +309,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 ##### Bloco 18: Projeto App de Receitas
 
-- [x] 18-1: _[Projeto - App de Receitas]()_
+- [x] 18-1: _Projeto - App de Receitas
 </details>
 
 <details>
@@ -336,7 +336,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 21-1: _Transformando ideias em um modelo de banco de dados - Parte 1_(https://github.com/Underewarrr/trybe-exercicios/pull/58)
 - [x] 21-2: _Normalização, Formas Normais e Dumps_(https://github.com/Underewarrr/trybe-exercicios/pull/58)
 - [x] 21-2: _Transformando ideias em um modelo de banco de dados - Parte 2_(https://github.com/Underewarrr/trybe-exercicios/pull/58)
-- [x] 21-3: _[Projeto - One For All]()_
+- [x] 21-3: _Projeto - One For All
 </details>
 
 # [TRYBE](https://www.betrybe.com/)!
