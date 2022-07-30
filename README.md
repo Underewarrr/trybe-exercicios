@@ -167,7 +167,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 </details>
 
 <details>
-<summary><h3>Desenvolvimento Front-end :hourglass_flowing_sand: (Completo)</h3></summary>
+<summary><h3>Desenvolvimento Front-end (Completo)</h3></summary>
 
 ##### Bloco 10: Introdução à React
 
