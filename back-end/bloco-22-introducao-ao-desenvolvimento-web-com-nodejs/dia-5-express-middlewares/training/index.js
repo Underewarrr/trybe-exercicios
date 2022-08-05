@@ -1,0 +1,43 @@
+const express = require('express');
+const bodyParser = require('body-parser');
+const app = express();
+app.use(bodyParser.json());
+
+
+const PORT = '3000';
+
+function validateName(req, res, next) {
+    const { name } = req.body;
+    if (!name || name === '') return res.status(400).json({ message: 'Invalid data!'});
+  
+    next();
+  };
+  
+  app.post('/recipes', validateName, function (req, res) {
+    const recipes = [];
+    const { id, name, price } = req.body;
+    recipes.push({ id, name, price});
+    res.status(201).json({ message: 'Recipe created successfully!'});
+  });
+  
+  app.put('/recipes/:id', validateName, function (req, res) {
+    const recipes = [
+        { id: 1, name: 'Lasanha', price: 50 },
+        { id: 2, name: 'Macarrão', price: 30 },
+    ];
+    
+    const { id } = req.params;
+    const { name, price } = req.body;
+    const recipesIndex = recipes.findIndex((r) => r.id === Number(id));
+  
+    if (recipesIndex === -1)
+      return res.status(404).json({ message: 'Recipe not found!' });
+  
+    recipes[recipesIndex] = { ...recipes[recipesIndex], name, price };
+  
+    res.status(204).end();
+  });
+
+  app.listen(PORT, () => {
+    console.log('Online');
+  });
