@@ -337,6 +337,15 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 21-2: _Normalização, Formas Normais e Dumps_(https://github.com/Underewarrr/trybe-exercicios/pull/58)
 - [x] 21-2: _Transformando ideias em um modelo de banco de dados - Parte 2_(https://github.com/Underewarrr/trybe-exercicios/pull/58)
 - [x] 21-3: _Projeto - One For All
+
+##### Seção 6: NodeJS ORM Autenticação JWT
+
+- [x] 6-1: _Interface da aplicação com o banco de dados_ (https://github.com/Underewarrr/trybe-exercicios/pull/71)
+- [x] 6-2: _Assosiação 1:1 e 1:N_(https://github.com/Underewarrr/trybe-exercicios/pull/72)
+- [x] 6-2: _ ORM Associations N:N e Transactions _(https://github.com/Underewarrr/trybe-exercicios/pull/73)
+- [x] 6-3: _Projeto_ - Blogs API
+</details>
+
 </details>
 
 # [TRYBE](https://www.betrybe.com/)!
