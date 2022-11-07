@@ -1,0 +1,6 @@
+DB_HOSTNAME=localhost
+DB_USER=root
+DB_PASSWORD=password
+DB_DATABASE=db
+APP_PORT=3001
+JWT_SECRET=secret

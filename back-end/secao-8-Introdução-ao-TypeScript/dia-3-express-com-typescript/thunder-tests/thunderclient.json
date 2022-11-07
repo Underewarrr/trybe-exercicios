@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "bd32c7d3-60f7-42c8-b633-29c739137b5c",
+    "colId": "3cc51b1d-d9d4-4b2e-8b90-55e5338c1e1c",
+    "containerId": "",
+    "name": "Listar",
+    "url": "http://localhost:3000/users",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2022-11-03T17:45:59.492Z",
+    "modified": "2022-11-03T20:02:47.428Z",
+    "headers": [
+      {
+        "name": "Authorization",
+        "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImpvaG5kb2VAbWFpbC5jb20iLCJwYXNzd29yZCI6InB3ZDEyMzQ1IiwiaWF0IjoxNjY3NTA1NTE1fQ.TS2kS5tPZbtuhWjeUGCr-1E-pfDmma_58-_ACV-8468"
+      }
+    ],
+    "params": [],
+    "tests": []
+  },
+  {
+    "_id": "8098c24b-1f0c-4cdc-931f-8e8fc91e6d62",
+    "colId": "3cc51b1d-d9d4-4b2e-8b90-55e5338c1e1c",
+    "containerId": "",
+    "name": "Login",
+    "url": "http://localhost:3000/login",
+    "method": "POST",
+    "sortNum": 20000,
+    "created": "2022-11-03T17:52:21.048Z",
+    "modified": "2022-11-03T19:58:35.287Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"email\": \"johndoe@mail.com\",\n  \"password\": \"pwd12345\"\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
