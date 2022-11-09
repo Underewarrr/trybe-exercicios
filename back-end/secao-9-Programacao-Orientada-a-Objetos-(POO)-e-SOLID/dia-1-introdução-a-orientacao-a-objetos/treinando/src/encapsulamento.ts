@@ -66,7 +66,7 @@ class  Tv2 {
 
   
   
-  tv1.turnOn();
+  tv12.turnOn();
   
-  tv2.turnOn();
+  tv22.turnOn();
   
