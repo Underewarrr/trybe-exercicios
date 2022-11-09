@@ -344,6 +344,14 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 6-2: _Assosiação 1:1 e 1:N_(https://github.com/Underewarrr/trybe-exercicios/pull/72)
 - [x] 6-2: _ ORM Associations N:N e Transactions _(https://github.com/Underewarrr/trybe-exercicios/pull/73)
 - [x] 6-3: _Projeto_ - Blogs API
+
+##### Seção 8: Introdução ao TypeScript
+
+- [x] 8-1: _Introdução ao TypeScript_(https://github.com/Underewarrr/trybe-exercicios/pull/74)
+- [x] 6-2: _Tipagem Estatica e Generica_(https://github.com/Underewarrr/trybe-exercicios/pull/75)
+- [x] 6-2: _Express com TypeScript_(https://github.com/Underewarrr/trybe-exercicios/pull/76)
+- [x] 6-3: _Projeto_ - TrybeSmith
+
 </details>
 
 </details>
