@@ -358,6 +358,11 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 9-2: _Herança e Interfaces_(https://github.com/Underewarrr/trybe-exercicios/pull/78)
 - [x] 9-3: _Polimorfismo_(https://github.com/Underewarrr/trybe-exercicios/pull/79)
 
+##### Seção 10: Introdução ao MongoDB
+
+- [x] 10-1: Introdução ao MongoDB_(https://github.com/Underewarrr/trybe-exercicios/pull/80)
+
+
 </details>
 
 </details>
