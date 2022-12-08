@@ -7,8 +7,7 @@
 <br />
 <br />
 
-Olá, me chamo **Rafhael Oliveira**, sou de Minas Gerais, Brasil e atualmente sou  **Estudante de Desenvolvimento Web Full Stack | Trybe | Turma 
-XP** 🚀.<br>
+Olá, me chamo **Rafhael Oliveira**, sou de Minas Gerais, Brasil e atualmente sou  **Estudante de Desenvolvimento Web Full Stack | Trybe <br>
 _A escola que te ensina a programar, a aprender e a trabalhar. E você tem a opção de começar a pagar só quando já estiver trabalhando_
 
 ### Introdução
