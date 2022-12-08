@@ -357,6 +357,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 - [x] 9-1: _Introdução a Orientação a Objetos_(https://github.com/Underewarrr/trybe-exercicios/pull/77)
 - [x] 9-2: _Herança e Interfaces_(https://github.com/Underewarrr/trybe-exercicios/pull/78)
 - [x] 9-3: _Polimorfismo_(https://github.com/Underewarrr/trybe-exercicios/pull/79)
+- [x] 9-x _Trybe Futebol Club_(https://github.com/Underewarrr/trybe-exercicios/pull/79)
 
 ##### Seção 10: Introdução ao MongoDB
 
