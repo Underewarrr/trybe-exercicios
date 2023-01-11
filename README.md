@@ -361,7 +361,12 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 ##### Seção 10: Introdução ao MongoDB
 
 - [x] 10-1: Introdução ao MongoDB_(https://github.com/Underewarrr/trybe-exercicios/pull/80)
+- [ ] 10-2:
+- [ ] 10-3:
 
+
+##### Seção 12: APIs OO e NoSQL
+- [ ] 12-2: APIs orientadas a objetos e NoSQL: POO e ODMs
 
 </details>
 
