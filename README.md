@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Olá, me chamo **Rafhael Oliveira**, sou de Minas Gerais, Brasil e atualmente sou  **Estudante de Desenvolvimento Web Full Stack | Trybe <br>
+Olá, me chamo **Rafhael Oliveira**, sou de Minas Gerais, Brasil e atualmente sou  Estudante de Desenvolvimento Web Full Stack | Trybe <br>
 _A escola que te ensina a programar, a aprender e a trabalhar. E você tem a opção de começar a pagar só quando já estiver trabalhando_
 
 ### Introdução
@@ -366,7 +366,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 
 ##### Seção 12: APIs OO e NoSQL
-- [ ] 12-2: APIs orientadas a objetos e NoSQL: POO e ODMs
+- [ ] 12-2: APIs orientadas a objetos e NoSQL: POO e ODMs(https://github.com/Underewarrr/trybe-exercicios/pull/81)
 
 </details>
 
