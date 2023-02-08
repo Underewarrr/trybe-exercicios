@@ -312,7 +312,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 </details>
 
 <details>
-<summary><h3>Desenvolvimento Back-end :hourglass_flowing_sand: (Em andamento)</h3></summary>
+<summary><h3>Desenvolvimento Back-end (Completo)</h3></summary>
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
 ##### Bloco 19: Introdução à SQL
@@ -366,9 +366,13 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 
 
 ##### Seção 12: APIs OO e NoSQL
-- [ ] 12-2: APIs orientadas a objetos e NoSQL: POO e ODMs(https://github.com/Underewarrr/trybe-exercicios/pull/81)
+- [x] 12-2: APIs orientadas a objetos e NoSQL: POO e ODMs(https://github.com/Underewarrr/trybe-exercicios/pull/81)
 
 </details>
+
+<details>
+<summary><h3>Ciência da Computação (Em andamento)</h3></summary>
+## Ciência da Computação :hourglass_flowing_sand:
 
 </details>
 
