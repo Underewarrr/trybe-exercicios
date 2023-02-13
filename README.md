@@ -373,6 +373,7 @@ Ao encontrar a parte de **Projetos** Você será redirecionado para o Github Pag
 <details>
 <summary><h3>Ciência da Computação (Em andamento)</h3></summary>
 ## Ciência da Computação :hourglass_flowing_sand:
+- [x] 1-1: Introdução a Python(https://github.com/Underewarrr/trybe-exercicios/pull/83)
 
 </details>
 
